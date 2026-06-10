@@ -25,14 +25,7 @@
       "heading": "Sprint Qualifying Results",
       "description": "Full Sprint Qualifying classification from Shanghai",
       "data": {
-        "headers": [
-          "Pos",
-          "Driver",
-          "Team",
-          "SQ1",
-          "SQ2",
-          "SQ3"
-        ],
+        "headers": ["Pos", "Driver", "Team", "SQ1", "SQ2", "SQ3"],
         "rows": [
           [
             "1",
@@ -50,14 +43,7 @@
             "1:32.291",
             "1:31.809"
           ],
-          [
-            "3",
-            "Lando NORRIS",
-            "McLaren",
-            "1:33.783",
-            "1:33.086",
-            "1:32.141"
-          ],
+          ["3", "Lando NORRIS", "McLaren", "1:33.783", "1:33.086", "1:32.141"],
           [
             "4",
             "Lewis HAMILTON",
@@ -66,14 +52,7 @@
             "1:33.042",
             "1:32.161"
           ],
-          [
-            "5",
-            "Oscar PIASTRI",
-            "McLaren",
-            "1:33.813",
-            "1:33.038",
-            "1:32.224"
-          ],
+          ["5", "Oscar PIASTRI", "McLaren", "1:33.813", "1:33.038", "1:32.224"],
           [
             "6",
             "Charles LECLERC",
@@ -82,14 +61,7 @@
             "1:32.602",
             "1:32.528"
           ],
-          [
-            "7",
-            "Pierre GASLY",
-            "Alpine",
-            "1:33.970",
-            "1:33.405",
-            "1:32.888"
-          ],
+          ["7", "Pierre GASLY", "Alpine", "1:33.970", "1:33.405", "1:32.888"],
           [
             "8",
             "Max VERSTAPPEN",
@@ -242,62 +214,14 @@
           "Aggregated Lap"
         ],
         "rows": [
-          [
-            "George RUSSELL",
-            "24.315",
-            "27.911",
-            "40.416",
-            "1:32.642"
-          ],
-          [
-            "Kimi ANTONELLI",
-            "24.267",
-            "27.922",
-            "40.456",
-            "1:32.645"
-          ],
-          [
-            "Lando NORRIS",
-            "24.337",
-            "28.258",
-            "40.680",
-            "1:33.275"
-          ],
-          [
-            "Oscar PIASTRI",
-            "24.402",
-            "28.164",
-            "40.763",
-            "1:33.329"
-          ],
-          [
-            "Charles LECLERC",
-            "24.461",
-            "28.198",
-            "40.757",
-            "1:33.416"
-          ],
-          [
-            "Lewis HAMILTON",
-            "24.841",
-            "28.099",
-            "41.117",
-            "1:34.057"
-          ],
-          [
-            "Max VERSTAPPEN",
-            "24.709",
-            "28.499",
-            "41.285",
-            "1:34.493"
-          ],
-          [
-            "Pierre GASLY",
-            "24.675",
-            "28.285",
-            "41.468",
-            "1:34.428"
-          ]
+          ["George RUSSELL", "24.315", "27.911", "40.416", "1:32.642"],
+          ["Kimi ANTONELLI", "24.267", "27.922", "40.456", "1:32.645"],
+          ["Lando NORRIS", "24.337", "28.258", "40.680", "1:33.275"],
+          ["Oscar PIASTRI", "24.402", "28.164", "40.763", "1:33.329"],
+          ["Charles LECLERC", "24.461", "28.198", "40.757", "1:33.416"],
+          ["Lewis HAMILTON", "24.841", "28.099", "41.117", "1:34.057"],
+          ["Max VERSTAPPEN", "24.709", "28.499", "41.285", "1:34.493"],
+          ["Pierre GASLY", "24.675", "28.285", "41.468", "1:34.428"]
         ]
       }
     },
@@ -317,95 +241,18 @@
       "heading": "Tyre Usage Breakdown — Full Weekend (FP1 + Sprint Quali + Quali)",
       "description": "Total compound usage across all sessions through Saturday qualifying",
       "data": {
-        "headers": [
-          "Driver",
-          "Team",
-          "Soft",
-          "Medium",
-          "Hard",
-          "Total Sets"
-        ],
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
         "rows": [
-          [
-            "Oscar PIASTRI",
-            "McLaren",
-            "8",
-            "4",
-            "0",
-            "12"
-          ],
-          [
-            "George RUSSELL",
-            "Mercedes",
-            "7",
-            "4",
-            "0",
-            "11"
-          ],
-          [
-            "Charles LECLERC",
-            "Ferrari",
-            "7",
-            "4",
-            "0",
-            "11"
-          ],
-          [
-            "Lewis HAMILTON",
-            "Ferrari",
-            "7",
-            "3",
-            "0",
-            "10"
-          ],
-          [
-            "Pierre GASLY",
-            "Alpine",
-            "7",
-            "3",
-            "0",
-            "10"
-          ],
-          [
-            "Franco COLAPINTO",
-            "Alpine",
-            "7",
-            "3",
-            "0",
-            "10"
-          ],
-          [
-            "Lando NORRIS",
-            "McLaren",
-            "6",
-            "3",
-            "0",
-            "9"
-          ],
-          [
-            "Kimi ANTONELLI",
-            "Mercedes",
-            "6",
-            "4",
-            "0",
-            "10"
-          ],
-          [
-            "Oliver BEARMAN",
-            "Haas F1 Team",
-            "6",
-            "4",
-            "0",
-            "10"
-          ],
-          [
-            "Max VERSTAPPEN",
-            "Red Bull Racing",
-            "6",
-            "5",
-            "0",
-            "11"
-          ]
+          ["Oscar PIASTRI", "McLaren", "8", "4", "0", "12"],
+          ["George RUSSELL", "Mercedes", "7", "4", "0", "11"],
+          ["Charles LECLERC", "Ferrari", "7", "4", "0", "11"],
+          ["Lewis HAMILTON", "Ferrari", "7", "3", "0", "10"],
+          ["Pierre GASLY", "Alpine", "7", "3", "0", "10"],
+          ["Franco COLAPINTO", "Alpine", "7", "3", "0", "10"],
+          ["Lando NORRIS", "McLaren", "6", "3", "0", "9"],
+          ["Kimi ANTONELLI", "Mercedes", "6", "4", "0", "10"],
+          ["Oliver BEARMAN", "Haas F1 Team", "6", "4", "0", "10"],
+          ["Max VERSTAPPEN", "Red Bull Racing", "6", "5", "0", "11"]
         ]
       }
     },
