@@ -1,0 +1,200 @@
+{
+  "slug": "2026-round-10-practice-analysis-belgium",
+  "title": "Belgium GP 2026: Practice Sessions Analysis & Race Predictions",
+  "articleDate": "2026-07-18",
+  "raceCountry": "Belgium",
+  "raceName": "Belgium Grand Prix",
+  "raceYear": 2026,
+  "summary": "Kimi Antonelli owns the fastest theoretical lap of the Spa weekend at 1:45.742, edging Lando Norris by 0.197s in our exclusive aggregated sector analysis. But Max Verstappen's delta of just 0.065s between potential and reality — plus outright ownership of Sector 3 — makes him the man nobody wants to see in their mirrors on Sunday. Ferrari and McLaren both left significant lap time unclaimed.",
+  "readTime": "8 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/07/2026-07-18_162627.jpg",
+  "tags": ["Practice Analysis", "Tyre Strategy", "Race Predictions"],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "The Headline: Antonelli Owns Spa's Ultimate Lap",
+      "content": "Kimi Antonelli goes into qualifying at Spa-Francorchamps holding the fastest theoretical lap of the entire weekend. Combining his best Sector 1, Sector 2 and Sector 3 across all three practice sessions produces a 1:45.742 — a lap that exists in the data but has never been driven in anger. Lando Norris is the only driver within two tenths of it at 1:45.939, and behind them the gap opens quickly: Max Verstappen at 1:46.073, George Russell at 1:46.205, Lewis Hamilton at 1:46.281. Six drivers are covered by seven tenths, which at a 7-kilometre circuit is a genuinely tight top group.\n\nWhat makes this weekend so readable is the gap between what drivers could do and what they actually did. Antonelli's fastest single lap of the weekend was a 1:45.944 in FP2 — quick enough to top the timing screens, but still 0.202s adrift of his own ceiling. Norris left 0.190s behind. Verstappen, by contrast, produced a 1:46.138 in FP3 that sat just 0.065s off his theoretical optimum, the smallest meaningful shortfall anywhere in the top ten. Nobody is squeezing the car harder relative to its potential than the Red Bull.\n\nThe team picture is more scrambled than the championship order suggests. Mercedes have both cars in the top four, and Russell's 1:46.205 came almost entirely from a single strong FP3 run. McLaren are split dramatically — Norris second, Oscar Piastri only eighth at 1:46.554, a 0.615s intra-team gap that is far too large to explain away as fuel loads. Ferrari sit fifth and seventh with Hamilton ahead of Charles Leclerc, and Red Bull have Verstappen third with Isack Hadjar sixth on 1:46.446, comfortably his strongest weekend of the season so far.\n\nSpa punishes cars that are compromised in any one direction, and this year's data shows exactly why the order is so mixed. The circuit demands low-drag efficiency on the Kemmel Straight, high-speed aerodynamic stability through the middle sector, and traction plus braking confidence in the final third. No car on this grid is best in all three. The aggregated analysis below — best sectors stitched together across every practice lap of the weekend, data no official source publishes — shows precisely where each contender gains and where it bleeds."
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026trackspafrancorchampsdetailed.webp",
+      "alt": "Belgium Circuit track map with sector divisions",
+      "caption": "Circuit Belgium layout showing the three sectors and key corners"
+    },
+    {
+      "type": "table",
+      "heading": "Ultimate Pace Potential — Aggregated Order",
+      "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "Kimi Antonelli", "Mercedes", "1:45.742", "—"],
+          ["2", "Lando Norris", "McLaren", "1:45.939", "+0.197"],
+          ["3", "Max Verstappen", "Red Bull Racing", "1:46.073", "+0.331"],
+          ["4", "George Russell", "Mercedes", "1:46.205", "+0.463"],
+          ["5", "Lewis Hamilton", "Ferrari", "1:46.281", "+0.539"],
+          ["6", "Isack Hadjar", "Red Bull Racing", "1:46.446", "+0.704"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Sector-by-Sector Breakdown",
+      "content": "Sector 1 at Spa is a straight-line efficiency test: La Source, the plunge through Eau Rouge and Raidillon, then the full length of the Kemmel Straight. Mercedes own it. Antonelli's 30.527 is the benchmark, with Russell 0.037s behind on 30.564 — the two W17s separated by less than four hundredths and clear of everything else. Hamilton is next on 30.624, then Norris on 30.657. The genuine surprise is Franco Colapinto, who put an Alpine third fastest through the opening sector on 30.587, ahead of both Ferraris and both McLarens. That is a straight-line and Eau Rouge commitment number, and it tells you the Alpine is running a very thin rear wing this weekend.\n\nSector 2 is where the McLaren transforms into a different car. Norris's 46.586 is the single most dominant sector time of the weekend — 0.136s clear of Antonelli's 46.722, and a full 0.418s ahead of Hamilton's 47.004 in third. Through Les Combes, Pouhon and Stavelot, the MCL40 is generating downforce nobody else can match, and it is the entire reason Norris is second in the aggregated order despite giving away time elsewhere. Hamilton, Russell, Verstappen and Hadjar are then packed into 47.004 to 47.024 — twenty thousandths covering four drivers from three teams.\n\nSector 3 belongs to Verstappen, and it is not close. His 28.294 through the Bus Stop chicane complex and the run to the line beats Pierre Gasly's 28.462 by 0.168s, with Antonelli third on 28.493. Verstappen is the only driver in the entire field to break into the 28.2s. This is traction and braking stability under load, and it is the clearest signal of the weekend that the Red Bull is the best race car here even if it is not the best qualifying car.\n\nThe reason Antonelli leads overall is simple: he is the only driver on the grid ranked in the top three of two different sectors. Norris is untouchable in one and merely good in the other two; Verstappen is untouchable in one and average in Sector 1, where his 30.771 costs him 0.244s to Antonelli before he has even reached Les Combes. Antonelli has no weakness, and at a circuit this long, having no weakness is worth more than having one devastating strength."
+    },
+    {
+      "type": "table",
+      "heading": "Sector Performance Comparison",
+      "description": "Best sector times combined across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["Kimi Antonelli", "30.527", "46.722", "28.493", "1:45.742"],
+          ["Lando Norris", "30.657", "46.586", "28.696", "1:45.939"],
+          ["Max Verstappen", "30.771", "47.008", "28.294", "1:46.073"],
+          ["George Russell", "30.564", "47.005", "28.636", "1:46.205"],
+          ["Lewis Hamilton", "30.624", "47.004", "28.653", "1:46.281"],
+          ["Isack Hadjar", "30.807", "47.024", "28.615", "1:46.446"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Understanding Aggregated vs Actual Times",
+      "content": "Every timing screen you have ever looked at shows actual times: the fastest single, complete lap a driver managed in a session, with all three sectors coming from that same lap. It is an honest measure of what was delivered, but it is a poor measure of what a car is capable of. A driver who nails Sectors 1 and 2 and then locks a brake at the Bus Stop shows up on the official sheets as slow, when in reality the pace was there.\n\nAggregated times solve that. We take every lap a driver completed across FP1, FP2 and FP3, extract their best Sector 1, their best Sector 2 and their best Sector 3 regardless of which lap or which session each came from, and sum them into a theoretical optimum. Antonelli's 1:45.742 is a good example of how this works in practice: his best Sector 2 came in FP2, while his best Sector 1 and Sector 3 both came in FP3. No single lap contained all three. This is the lap the car is capable of, and it is not published anywhere else.\n\nThis matters for qualifying because qualifying is precisely where drivers stop making mistakes. Over a single flying lap with a fresh set of softs, low fuel and everything on the line, drivers converge on their theoretical optimum. Reading the deltas is straightforward: a small delta means a driver is already extracting nearly everything and has limited headroom, while a large delta means clean lap time is sitting unclaimed. Verstappen's +0.065s says he is at his ceiling. Hadjar's +0.268s and Leclerc's +0.245s say there is real time waiting to be found on Saturday."
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual Times",
+      "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:45.742",
+            "1:45.944",
+            "+0.202",
+            "Fastest anyway, more to come"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:45.939",
+            "1:46.129",
+            "+0.190",
+            "Sector 2 is his weapon"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:46.073",
+            "1:46.138",
+            "+0.065",
+            "Ruthlessly consistent"
+          ],
+          [
+            "George Russell",
+            "Mercedes",
+            "1:46.205",
+            "1:46.357",
+            "+0.152",
+            "Tidy, near the limit"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:46.281",
+            "1:46.382",
+            "+0.101",
+            "Extracting nearly everything"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:46.446",
+            "1:46.714",
+            "+0.268",
+            "Big untapped potential"
+          ],
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:46.505",
+            "1:46.750",
+            "+0.245",
+            "Scrappy — a lap is waiting"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:46.554",
+            "1:46.785",
+            "+0.231",
+            "Never strung it together"
+          ],
+          [
+            "Arvid Lindblad",
+            "Racing Bulls",
+            "1:46.873",
+            "1:47.176",
+            "+0.303",
+            "Rawest, biggest headroom"
+          ],
+          [
+            "Nico Hulkenberg",
+            "Audi",
+            "1:46.924",
+            "1:46.924",
+            "+0.000",
+            "One perfect lap, nothing spare"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Practice Session Evolution",
+      "content": "FP1 belonged to the usual suspects and told us almost nothing about Saturday. Verstappen led on actual pace with a 1:47.070, while Leclerc topped the aggregated order on 1:46.989 — the Ferrari looked genuinely quick in the opening hour, with Hamilton on 1:47.210 and Hadjar on 1:47.314 close behind. Antonelli was only sixth on 1:47.603 and Norris seventh. Aston Martin ran Jak Crawford in Fernando Alonso's car, which explains their absence from the meaningful order.\n\nFP2 flipped the weekend on its head. Antonelli went straight to a 1:45.944 — 1.126s faster than anything seen in FP1 and, remarkably, the fastest actual lap of the entire weekend, never beaten in FP3. Norris followed with a 1:46.134, and the top two were suddenly Mercedes and McLaren rather than Ferrari and Red Bull. FP2 also produced most of the weekend's best Sector 2 times, including Norris's 46.586, suggesting the evening track conditions suited the middle sector specifically.\n\nFP3 saw the front group plateau while the midfield exploded. Antonelli managed 1:45.990, marginally slower than his FP2 benchmark, and Norris improved by only five thousandths. Verstappen, however, gained 0.278s to 1:46.138 and set his weekend-best Sector 3 there. The real story was behind: Nico Hulkenberg went from 1:48.333 to 1:46.924, a 1.409s improvement that vaulted the Audi into the top ten overall, and Gabriel Bortoleto found 0.903s for a 1:47.049. Whatever Audi changed between sessions worked, and it worked for both cars."
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy Analysis",
+      "content": "The compound usage across practice splits the paddock into two clear camps. Racing Bulls burned through the most rubber of anyone, with Liam Lawson using nine sets (six soft, three medium) and Arvid Lindblad also on nine (five soft, four medium). Lawson took four soft sets in FP3 alone — an aggressive, information-hungry programme from a team that clearly felt it needed answers rather than saved allocation.\n\nAt the other end, the three genuine front-running teams were notably disciplined. Verstappen, Hamilton and Leclerc each used just six sets, split four soft and two medium. Antonelli got through seven. That restraint is the classic signature of teams confident enough in their baseline setup to bank fresh softs for Q3 and, more importantly, to keep unused sets available for Sunday. McLaren were the outlier among the top four, with Norris on eight sets including six softs — three of them in FP1 alone, which is unusually front-loaded and hints at an early setup problem they needed to chase.\n\nThe most telling number is the hard compound, which barely appeared. Only six drivers ran it at all — Colapinto, Gasly, Hulkenberg, Bortoleto, Perez and Bottas — and every single one of those runs came in FP1. Not one front-running team put a lap on the hard tyre across the entire weekend. That is a strong indication that the teams with the best data do not consider the hard a viable race compound here, and are planning around a soft and medium combination instead.\n\nStrategically, that points to a two-stop as the default. With nobody in the top six holding meaningful hard-tyre data, the medium becomes the primary race tyre and the soft the opportunistic one. Teams that saved sets — Red Bull and Ferrari in particular — have the flexibility to react to a safety car or an early undercut. Racing Bulls, having spent almost their entire allocation, will be racing on whatever is left."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown",
+      "description": "Total compound usage across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
+        "rows": [
+          ["Liam Lawson", "Racing Bulls", "6", "3", "0", "9"],
+          ["Lando Norris", "McLaren", "6", "2", "0", "8"],
+          ["Oscar Piastri", "McLaren", "5", "3", "0", "8"],
+          ["George Russell", "Mercedes", "5", "3", "0", "8"],
+          ["Kimi Antonelli", "Mercedes", "5", "2", "0", "7"],
+          ["Max Verstappen", "Red Bull Racing", "4", "2", "0", "6"],
+          ["Lewis Hamilton", "Ferrari", "4", "2", "0", "6"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Key Findings and Surprises",
+      "content": "1. Mercedes have the fastest car over one lap, and it is not just Antonelli. Both W17s are in the top four of the aggregated order, and the team locked out the top two in Sector 1 with 30.527 and 30.564. Antonelli's 1:45.742 leads a team-mate who is 0.463s back, but Russell's deficit is concentrated almost entirely in Sector 2, where he loses 0.283s. The car is fast; only one driver is currently maximising it.\n\n2. McLaren's intra-team gap is alarming. Norris and Piastri are separated by 0.615s in aggregated pace — 1:45.939 to 1:46.554 — despite driving the same machinery on the same programme. Piastri also carries a +0.231s delta, meaning he never strung a clean lap together either. He is beaten in all three sectors by his team-mate, with the largest loss in Sector 2 (47.049 to 46.586), which is precisely the sector where the McLaren is supposed to be dominant.\n\n3. Isack Hadjar is the weekend's genuine breakout. Sixth in the aggregated order on 1:46.446, ahead of Leclerc and Piastri, with a Sector 2 time of 47.024 that puts him within twenty thousandths of Hamilton and Russell. His +0.268s delta is one of the larger ones in the top ten, which means the raw number understates him rather than flattering him.\n\n4. Audi's FP3 transformation deserves attention. Hulkenberg's 1.409s improvement and Bortoleto's 0.903s gain moved both cars into the top twelve. Notably, both drivers show a delta of exactly +0.000s, meaning their theoretical optimum and their fastest actual lap are the same lap — they each found one clean run and had nothing else to build on. That is fragile pace, but it is real pace.\n\n5. The Ferrari order has inverted. Hamilton leads Leclerc by 0.224s in aggregated terms and holds a tidier +0.101s delta against Leclerc's +0.245s. In FP1 Leclerc topped the aggregated order outright; by the end of FP3 he had been passed by his team-mate in every meaningful metric except Sector 3, where they are separated by 0.035s."
+    },
+    {
+      "type": "text",
+      "heading": "Race Day Predictions",
+      "content": "Qualifying Prediction: Antonelli takes pole. The aggregated data has him 0.197s clear of Norris and 0.331s clear of Verstappen, and with track evolution plus qualifying engine modes on top of a 1:45.742 optimum, expect the pole time to land around 1:45.4 to 1:45.5. Predicted top three on the grid: Antonelli, Norris, Verstappen. Watch Hadjar and Leclerc as the disruptors — their deltas of +0.268s and +0.245s are the largest among the leading group, meaning both have measurable time still on the table if they deliver the lap on Saturday that they never delivered in practice.\n\nRace Prediction: Verstappen wins. Qualifying and racing at Spa are different disciplines, and the case for him is built on three numbers. His Sector 3 of 28.294 is 0.168s faster than anyone else on the grid, which translates directly into traction out of the final chicane and DRS effectiveness down the Kemmel Straight on lap one and every lap after. His delta of +0.065s says the car is stable and predictable rather than peaky. And a six-set practice allocation gives Red Bull the freshest rubber of the front-runners for a race that looks like a two-stop on soft and medium.\n\nPodium Prediction: 1st Max Verstappen (Red Bull Racing), 2nd Kimi Antonelli (Mercedes), 3rd Lando Norris (McLaren). Antonelli has the raw pace to convert pole into a lead, but holding Verstappen off through Sector 3 for a full race distance is a different problem to solving one qualifying lap. Norris should have the aerodynamic platform to stay in the fight through the middle sector, but the McLaren's Sector 1 deficit of 0.130s to Antonelli leaves him vulnerable on every straight-line exchange.\n\nWildcard Factors: The Ardennes weather is the obvious one — Spa generates its own microclimate and a wet or mixed race redraws everything, particularly given that not one front-running team ran the hard compound and wet-weather running was minimal across all three sessions. Safety car probability here is moderate-to-high given the Bus Stop chicane on lap one and the risk of debris at Les Combes, and with two-stop strategies in play a well-timed neutralisation is worth more than half a second of pace.\n\nDark Horse and Key Battle: Nico Hulkenberg is the dark horse. The Audi's 1.409s FP3 improvement to 1:46.924 was the largest single-session gain of the weekend, and his Sector 3 of 28.531 is fifth fastest overall — better than both Ferraris. If that FP3 setup direction holds, a points finish is realistic. The battle to watch is Norris against Piastri. A 0.615s intra-team aggregated gap at a circuit where McLaren clearly have the best middle sector is not sustainable, and Piastri will be pushing hard enough on Saturday to either close it or bin it."
+    }
+  ]
+}
