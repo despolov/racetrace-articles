@@ -34,41 +34,11 @@
           "Gap to First"
         ],
         "rows": [
-          [
-            "1",
-            "Lando NORRIS",
-            "McLaren",
-            "1:33.503",
-            "—"
-          ],
-          [
-            "2",
-            "Kimi ANTONELLI",
-            "Mercedes",
-            "1:33.631",
-            "+0.128"
-          ],
-          [
-            "3",
-            "Charles LECLERC",
-            "Ferrari",
-            "1:33.652",
-            "+0.149"
-          ],
-          [
-            "4",
-            "Nico HULKENBERG",
-            "Kick Sauber",
-            "1:33.879",
-            "+0.376"
-          ],
-          [
-            "5",
-            "Isack HADJAR",
-            "Racing Bulls",
-            "1:33.893",
-            "+0.390"
-          ]
+          ["1", "Lando NORRIS", "McLaren", "1:33.503", "-"],
+          ["2", "Kimi ANTONELLI", "Mercedes", "1:33.631", "+0.128"],
+          ["3", "Charles LECLERC", "Ferrari", "1:33.652", "+0.149"],
+          ["4", "Nico HULKENBERG", "Kick Sauber", "1:33.879", "+0.376"],
+          ["5", "Isack HADJAR", "Racing Bulls", "1:33.893", "+0.390"]
         ]
       }
     },
@@ -184,49 +154,13 @@
       "heading": "Sector Performance Comparison",
       "description": "Best aggregated sector times from all practice sessions",
       "data": {
-        "headers": [
-          "Driver",
-          "Sector 1",
-          "Sector 2",
-          "Sector 3",
-          "Total Time"
-        ],
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
         "rows": [
-          [
-            "Lando NORRIS",
-            "26.332",
-            "31.225",
-            "35.946",
-            "1:33.503"
-          ],
-          [
-            "Kimi ANTONELLI",
-            "26.425",
-            "31.298",
-            "35.908",
-            "1:33.631"
-          ],
-          [
-            "Charles LECLERC",
-            "26.446",
-            "31.295",
-            "35.911",
-            "1:33.652"
-          ],
-          [
-            "George RUSSELL",
-            "26.816",
-            "31.579",
-            "35.659",
-            "1:34.054"
-          ],
-          [
-            "Max VERSTAPPEN",
-            "26.730",
-            "31.785",
-            "35.668",
-            "1:34.183"
-          ]
+          ["Lando NORRIS", "26.332", "31.225", "35.946", "1:33.503"],
+          ["Kimi ANTONELLI", "26.425", "31.298", "35.908", "1:33.631"],
+          ["Charles LECLERC", "26.446", "31.295", "35.911", "1:33.652"],
+          ["George RUSSELL", "26.816", "31.579", "35.659", "1:34.054"],
+          ["Max VERSTAPPEN", "26.730", "31.785", "35.668", "1:34.183"]
         ]
       }
     },
@@ -251,86 +185,14 @@
           "Total"
         ],
         "rows": [
-          [
-            "Lando NORRIS",
-            "McLaren",
-            "4",
-            "3",
-            "0",
-            "3",
-            "2",
-            "12"
-          ],
-          [
-            "George RUSSELL",
-            "Mercedes",
-            "4",
-            "3",
-            "0",
-            "3",
-            "1",
-            "11"
-          ],
-          [
-            "Max VERSTAPPEN",
-            "Red Bull",
-            "4",
-            "2",
-            "0",
-            "3",
-            "2",
-            "11"
-          ],
-          [
-            "Charles LECLERC",
-            "Ferrari",
-            "4",
-            "2",
-            "0",
-            "3",
-            "2",
-            "11"
-          ],
-          [
-            "Lewis HAMILTON",
-            "Ferrari",
-            "4",
-            "2",
-            "0",
-            "2",
-            "1",
-            "9"
-          ],
-          [
-            "Carlos SAINZ",
-            "Williams",
-            "4",
-            "2",
-            "0",
-            "3",
-            "2",
-            "11"
-          ],
-          [
-            "Isack HADJAR",
-            "Racing Bulls",
-            "4",
-            "3",
-            "0",
-            "3",
-            "2",
-            "12"
-          ],
-          [
-            "Kimi ANTONELLI",
-            "Mercedes",
-            "4",
-            "3",
-            "0",
-            "2",
-            "1",
-            "10"
-          ]
+          ["Lando NORRIS", "McLaren", "4", "3", "0", "3", "2", "12"],
+          ["George RUSSELL", "Mercedes", "4", "3", "0", "3", "1", "11"],
+          ["Max VERSTAPPEN", "Red Bull", "4", "2", "0", "3", "2", "11"],
+          ["Charles LECLERC", "Ferrari", "4", "2", "0", "3", "2", "11"],
+          ["Lewis HAMILTON", "Ferrari", "4", "2", "0", "2", "1", "9"],
+          ["Carlos SAINZ", "Williams", "4", "2", "0", "3", "2", "11"],
+          ["Isack HADJAR", "Racing Bulls", "4", "3", "0", "3", "2", "12"],
+          ["Kimi ANTONELLI", "Mercedes", "4", "3", "0", "2", "1", "10"]
         ]
       }
     },

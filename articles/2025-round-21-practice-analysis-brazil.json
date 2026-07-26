@@ -34,41 +34,11 @@
           "Gap to First"
         ],
         "rows": [
-          [
-            "1",
-            "Oscar Piastri",
-            "McLaren",
-            "1:09.807",
-            "—"
-          ],
-          [
-            "2",
-            "Lando Norris",
-            "McLaren",
-            "1:09.975",
-            "+0.168"
-          ],
-          [
-            "3",
-            "Carlos Sainz",
-            "Williams",
-            "1:10.460",
-            "+0.653"
-          ],
-          [
-            "4",
-            "Liam Lawson",
-            "Racing Bulls",
-            "1:10.514",
-            "+0.707"
-          ],
-          [
-            "5",
-            "George Russell",
-            "Mercedes",
-            "1:10.522",
-            "+0.715"
-          ]
+          ["1", "Oscar Piastri", "McLaren", "1:09.807", "-"],
+          ["2", "Lando Norris", "McLaren", "1:09.975", "+0.168"],
+          ["3", "Carlos Sainz", "Williams", "1:10.460", "+0.653"],
+          ["4", "Liam Lawson", "Racing Bulls", "1:10.514", "+0.707"],
+          ["5", "George Russell", "Mercedes", "1:10.522", "+0.715"]
         ]
       }
     },
@@ -184,49 +154,13 @@
       "heading": "Sector Performance Comparison",
       "description": "Best individual sector times from practice session",
       "data": {
-        "headers": [
-          "Driver",
-          "Sector 1",
-          "Sector 2",
-          "Sector 3",
-          "Total Time"
-        ],
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
         "rows": [
-          [
-            "Piastri",
-            "17.837",
-            "35.733",
-            "16.237",
-            "1:09.807"
-          ],
-          [
-            "Norris",
-            "17.946",
-            "35.867",
-            "16.162",
-            "1:09.975"
-          ],
-          [
-            "Sainz",
-            "18.010",
-            "36.206",
-            "16.244",
-            "1:10.460"
-          ],
-          [
-            "Lawson",
-            "18.182",
-            "36.063",
-            "16.269",
-            "1:10.514"
-          ],
-          [
-            "Russell",
-            "18.078",
-            "36.109",
-            "16.335",
-            "1:10.522"
-          ]
+          ["Piastri", "17.837", "35.733", "16.237", "1:09.807"],
+          ["Norris", "17.946", "35.867", "16.162", "1:09.975"],
+          ["Sainz", "18.010", "36.206", "16.244", "1:10.460"],
+          ["Lawson", "18.182", "36.063", "16.269", "1:10.514"],
+          ["Russell", "18.078", "36.109", "16.335", "1:10.522"]
         ]
       }
     },
@@ -240,63 +174,14 @@
       "heading": "Tyre Usage Breakdown - Top Teams",
       "description": "Total compound usage across practice and sprint qualifying",
       "data": {
-        "headers": [
-          "Driver",
-          "Team",
-          "Soft",
-          "Medium",
-          "Hard",
-          "Total Sets"
-        ],
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
         "rows": [
-          [
-            "Norris",
-            "McLaren",
-            "1",
-            "3",
-            "1",
-            "5"
-          ],
-          [
-            "Piastri",
-            "McLaren",
-            "1",
-            "3",
-            "1",
-            "5"
-          ],
-          [
-            "Verstappen",
-            "Red Bull",
-            "2",
-            "2",
-            "1",
-            "5"
-          ],
-          [
-            "Russell",
-            "Mercedes",
-            "1",
-            "3",
-            "1",
-            "5"
-          ],
-          [
-            "Sainz",
-            "Williams",
-            "0",
-            "2",
-            "2",
-            "4"
-          ],
-          [
-            "Lawson",
-            "Racing Bulls",
-            "0",
-            "4",
-            "3",
-            "7"
-          ]
+          ["Norris", "McLaren", "1", "3", "1", "5"],
+          ["Piastri", "McLaren", "1", "3", "1", "5"],
+          ["Verstappen", "Red Bull", "2", "2", "1", "5"],
+          ["Russell", "Mercedes", "1", "3", "1", "5"],
+          ["Sainz", "Williams", "0", "2", "2", "4"],
+          ["Lawson", "Racing Bulls", "0", "4", "3", "7"]
         ]
       }
     },
