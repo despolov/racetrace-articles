@@ -19,7 +19,7 @@
       "type": "table",
       "heading": "Ultimate Pace Potential — Aggregated Order",
       "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
-      "content": {
+      "data": {
         "headers": [
           "Position",
           "Driver",
@@ -41,7 +41,7 @@
       "type": "table",
       "heading": "Hidden Potential: Aggregated vs Actual Times",
       "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
-      "content": {
+      "data": {
         "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
         "rows": [
           [
@@ -141,7 +141,7 @@
       "type": "table",
       "heading": "Sector Performance Comparison",
       "description": "Best sector times combined across all practice sessions.",
-      "content": {
+      "data": {
         "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
         "rows": [
           ["Kimi Antonelli", "16.627", "30.041", "20.307", "1:06.975"],
@@ -170,7 +170,7 @@
       "type": "table",
       "heading": "Tyre Usage Breakdown",
       "description": "Total compound usage across all practice sessions.",
-      "content": {
+      "data": {
         "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
         "rows": [
           ["Kimi Antonelli", "Mercedes", "4", "5", "0", "9"],

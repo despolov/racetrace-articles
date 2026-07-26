@@ -25,21 +25,23 @@
       "type": "table",
       "heading": "Ultimate Pace Potential — Aggregated Order",
       "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
-      "headers": [
-        "Position",
-        "Driver",
-        "Team",
-        "Aggregated Lap",
-        "Gap to First"
-      ],
-      "rows": [
-        ["1", "George Russell", "Mercedes", "1:15.237", "—"],
-        ["2", "Lando Norris", "McLaren", "1:15.426", "+0.189"],
-        ["3", "Oscar Piastri", "McLaren", "1:15.436", "+0.199"],
-        ["4", "Charles Leclerc", "Ferrari", "1:15.746", "+0.509"],
-        ["5", "Kimi Antonelli", "Mercedes", "1:15.818", "+0.581"],
-        ["6", "Max Verstappen", "Red Bull Racing", "1:16.084", "+0.847"]
-      ]
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "George Russell", "Mercedes", "1:15.237", "—"],
+          ["2", "Lando Norris", "McLaren", "1:15.426", "+0.189"],
+          ["3", "Oscar Piastri", "McLaren", "1:15.436", "+0.199"],
+          ["4", "Charles Leclerc", "Ferrari", "1:15.746", "+0.509"],
+          ["5", "Kimi Antonelli", "Mercedes", "1:15.818", "+0.581"],
+          ["6", "Max Verstappen", "Red Bull Racing", "1:16.084", "+0.847"]
+        ]
+      }
     },
     {
       "type": "text",
@@ -50,15 +52,17 @@
       "type": "table",
       "heading": "Sector Performance Comparison",
       "description": "Best sector times combined across all practice sessions.",
-      "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
-      "rows": [
-        ["George Russell", "21.917", "30.376", "22.944", "1:15.237"],
-        ["Lando Norris", "22.045", "30.475", "22.906", "1:15.426"],
-        ["Oscar Piastri", "22.055", "30.532", "22.849", "1:15.436"],
-        ["Charles Leclerc", "22.239", "30.459", "23.048", "1:15.746"],
-        ["Kimi Antonelli", "22.086", "30.609", "23.123", "1:15.818"],
-        ["Max Verstappen", "22.155", "30.654", "23.275", "1:16.084"]
-      ]
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["George Russell", "21.917", "30.376", "22.944", "1:15.237"],
+          ["Lando Norris", "22.045", "30.475", "22.906", "1:15.426"],
+          ["Oscar Piastri", "22.055", "30.532", "22.849", "1:15.436"],
+          ["Charles Leclerc", "22.239", "30.459", "23.048", "1:15.746"],
+          ["Kimi Antonelli", "22.086", "30.609", "23.123", "1:15.818"],
+          ["Max Verstappen", "22.155", "30.654", "23.275", "1:16.084"]
+        ]
+      }
     },
     {
       "type": "text",
@@ -69,89 +73,91 @@
       "type": "table",
       "heading": "Hidden Potential: Aggregated vs Actual Times",
       "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
-      "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
-      "rows": [
-        [
-          "George Russell",
-          "Mercedes",
-          "1:15.237",
-          "1:15.435",
-          "+0.198",
-          "Real headroom at the front"
-        ],
-        [
-          "Lando Norris",
-          "McLaren",
-          "1:15.426",
-          "1:15.426",
-          "+0.000",
-          "Ruthlessly consistent"
-        ],
-        [
-          "Oscar Piastri",
-          "McLaren",
-          "1:15.436",
-          "1:15.483",
-          "+0.047",
-          "Near-perfect execution"
-        ],
-        [
-          "Charles Leclerc",
-          "Ferrari",
-          "1:15.746",
-          "1:15.799",
-          "+0.053",
-          "Clean and clinical"
-        ],
-        [
-          "Kimi Antonelli",
-          "Mercedes",
-          "1:15.818",
-          "1:16.015",
-          "+0.197",
-          "Big untapped potential"
-        ],
-        [
-          "Max Verstappen",
-          "Red Bull Racing",
-          "1:16.084",
-          "1:16.321",
-          "+0.237",
-          "Largest reserve at the sharp end"
-        ],
-        [
-          "Lewis Hamilton",
-          "Ferrari",
-          "1:16.200",
-          "1:16.381",
-          "+0.181",
-          "Sectors not yet stitched"
-        ],
-        [
-          "Arvid Lindblad",
-          "Racing Bulls",
-          "1:16.411",
-          "1:16.411",
-          "+0.000",
-          "Maximised every run"
-        ],
-        [
-          "Isack Hadjar",
-          "Red Bull Racing",
-          "1:16.603",
-          "1:16.674",
-          "+0.071",
-          "Tidy, close to the limit"
-        ],
-        [
-          "Nico Hülkenberg",
-          "Audi",
-          "1:16.687",
-          "1:16.934",
-          "+0.247",
-          "Quicker than the sheets show"
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "George Russell",
+            "Mercedes",
+            "1:15.237",
+            "1:15.435",
+            "+0.198",
+            "Real headroom at the front"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:15.426",
+            "1:15.426",
+            "+0.000",
+            "Ruthlessly consistent"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:15.436",
+            "1:15.483",
+            "+0.047",
+            "Near-perfect execution"
+          ],
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:15.746",
+            "1:15.799",
+            "+0.053",
+            "Clean and clinical"
+          ],
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:15.818",
+            "1:16.015",
+            "+0.197",
+            "Big untapped potential"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:16.084",
+            "1:16.321",
+            "+0.237",
+            "Largest reserve at the sharp end"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:16.200",
+            "1:16.381",
+            "+0.181",
+            "Sectors not yet stitched"
+          ],
+          [
+            "Arvid Lindblad",
+            "Racing Bulls",
+            "1:16.411",
+            "1:16.411",
+            "+0.000",
+            "Maximised every run"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:16.603",
+            "1:16.674",
+            "+0.071",
+            "Tidy, close to the limit"
+          ],
+          [
+            "Nico Hülkenberg",
+            "Audi",
+            "1:16.687",
+            "1:16.934",
+            "+0.247",
+            "Quicker than the sheets show"
+          ]
         ]
-      ]
+      }
     },
     {
       "type": "text",
@@ -167,16 +173,18 @@
       "type": "table",
       "heading": "Tyre Usage Breakdown",
       "description": "Total compound usage across all practice sessions.",
-      "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
-      "rows": [
-        ["Lando Norris", "McLaren", "3", "1", "0", "4"],
-        ["Kimi Antonelli", "Mercedes", "3", "2", "0", "5"],
-        ["George Russell", "Mercedes", "4", "2", "0", "6"],
-        ["Oscar Piastri", "McLaren", "4", "2", "0", "6"],
-        ["Lewis Hamilton", "Ferrari", "5", "1", "0", "6"],
-        ["Max Verstappen", "Red Bull Racing", "4", "1", "1", "6"],
-        ["Charles Leclerc", "Ferrari", "6", "3", "0", "9"]
-      ]
+      "data": {
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
+        "rows": [
+          ["Lando Norris", "McLaren", "3", "1", "0", "4"],
+          ["Kimi Antonelli", "Mercedes", "3", "2", "0", "5"],
+          ["George Russell", "Mercedes", "4", "2", "0", "6"],
+          ["Oscar Piastri", "McLaren", "4", "2", "0", "6"],
+          ["Lewis Hamilton", "Ferrari", "5", "1", "0", "6"],
+          ["Max Verstappen", "Red Bull Racing", "4", "1", "1", "6"],
+          ["Charles Leclerc", "Ferrari", "6", "3", "0", "9"]
+        ]
+      }
     },
     {
       "type": "text",
