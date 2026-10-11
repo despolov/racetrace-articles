@@ -1,0 +1,200 @@
+{
+  "slug": "2026-practice-analysis-azerbaijan",
+  "title": "Azerbaijan GP 2026: Practice Sessions Analysis & Race Predictions",
+  "articleDate": "2026-09-25",
+  "raceCountry": "Azerbaijan",
+  "raceName": "Azerbaijan Grand Prix",
+  "raceYear": 2026,
+  "summary": "George Russell's combined best sectors produce a 1:43.058 weekend-optimal lap in Baku, 0.307s clear of Max Verstappen and 0.376s clear of teammate Kimi Antonelli. Verstappen topped FP3 and matched Russell's 42.053 through the castle section, while Charles Leclerc carries the biggest untapped margin of the front-runners at +0.724s. McLaren's Sector 3 deficit and Alpine's surprising pace complete the picture.",
+  "readTime": "9 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-09-02-4-SI202609240223.jpg",
+  "tags": ["Practice Analysis", "Tyre Strategy", "Race Predictions"],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Can Anyone Stop George Russell in Baku?",
+      "content": "That is the question three practice sessions on the streets of Baku have left us with. George Russell topped FP1 with a 1:45.387 and FP2 with a 1:43.347, and when we stitch together his best sectors from the whole weekend he produces a theoretical lap of 1:43.058. Nobody else on the grid gets within three tenths of that figure. On paper, Mercedes arrive at qualifying as the reference.\n\nBut the paper doesn't tell the whole story. Max Verstappen went fastest in FP3 with a 1:43.922, edging Russell by 0.099s, and his combined-sector lap of 1:43.365 sits just 0.307s behind. Kimi Antonelli is right there too at 1:43.434, meaning Mercedes have two cars in the top three of our aggregated order. Ferrari follow with Charles Leclerc on 1:43.749 and Lewis Hamilton on 1:44.033, then a gap to McLaren.\n\nThe official timesheets only show each driver's single best lap. Our aggregated data goes further, combining each driver's fastest Sector 1, Sector 2 and Sector 3 across all three sessions. That reveals who has speed left on the table, and in Baku that matters more than almost anywhere. The 2.2km run from Turn 16 to Turn 1 rewards low drag, while the tight castle section in Sector 2 punishes any compromise in mechanical grip. Getting all three sectors right on one lap is notoriously hard here.\n\nSo can anyone stop Russell? The answer depends on whether Verstappen can find another tenth in the final sector, and whether Leclerc can finally string together the pieces that the data says he already has."
+    },
+    {
+      "type": "table",
+      "heading": "Ultimate Pace Potential — Aggregated Order",
+      "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "George Russell", "Mercedes", "1:43.058", "—"],
+          ["2", "Max Verstappen", "Red Bull Racing", "1:43.365", "+0.307"],
+          ["3", "Kimi Antonelli", "Mercedes", "1:43.434", "+0.376"],
+          ["4", "Charles Leclerc", "Ferrari", "1:43.749", "+0.691"],
+          ["5", "Lewis Hamilton", "Ferrari", "1:44.033", "+0.975"],
+          ["6", "Lando Norris", "McLaren", "1:44.212", "+1.154"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "How the Weekend Unfolded: FP1 to FP3",
+      "content": "FP1 was a cautious opener, with Russell's 1:45.387 leading Verstappen by 0.400s and Leclerc by 0.404s. Verstappen's best lap in that session came without a recorded Sector 1 time, which hints at how much was still to come. Lower down, Racing Bulls stood out early, with Liam Lawson fifth on the aggregated FP1 order at 1:46.076.\n\nFP2 brought the big step. Russell dropped more than two seconds to 1:43.347, and Antonelli made it a Mercedes one-two on 1:43.899, set on only his seventh lap of the session. Verstappen was third on 1:44.174, with Leclerc fourth and Lando Norris fifth on the aggregated FP2 order. Pierre Gasly was a quiet highlight, putting the Alpine seventh on the actual timesheet with a 1:44.843, just 0.012s behind Norris.\n\nFP3 flipped the order but not the overall picture. Verstappen led with 1:43.922, then Russell at +0.099 and Hamilton at +0.111. Lap times were slower than FP2 across the top of the field, with Russell's best 0.674s off his Friday benchmark. That points to a different track state rather than lost performance, and it means FP2 remains the best guide to the evening qualifying session. Mercedes also spent much of FP3 on Medium tyres, with Russell using three Medium sets, so their short-run pace was likely understated."
+    },
+    {
+      "type": "text",
+      "heading": "Sector-by-Sector Breakdown",
+      "content": "Sector 1, the run of right-angled corners through Turns 1 to 4, is the tightest fight on the board. Leclerc holds the weekend best at 36.483, with Russell at 36.509, Norris at 36.510, Verstappen at 36.536 and Antonelli at 36.556. Five drivers are covered by just 0.073s. Braking stability and traction out of slow corners decide this part of the lap, and four different teams are almost level.\n\nSector 2 is where the leaders separate. Russell and Verstappen both clocked 42.053 through the castle section, identical to the thousandth. Antonelli is next at 42.259, already more than two tenths back, with Oscar Piastri on 42.451 and Norris on 42.474. Ferrari's best is Leclerc's 42.494, meaning the red cars give away around 0.44s to the Mercedes and Red Bull through the twisty middle of the lap.\n\nSector 3 is the long flat-out blast to the line, and it decides the order at the top. Russell's 24.496 is the fastest of the weekend, followed by Antonelli on 24.619 and, surprisingly, Gasly on 24.654. Verstappen manages 24.776, which costs him 0.280s to Russell here alone. That is almost his entire aggregated gap. Mercedes look to have the best combination of straight-line efficiency and exit speed onto the main straight.\n\nMcLaren's problem is equally clear. Norris's best Sector 3 is 25.228 and Piastri's is 25.248, both around 0.73s slower than Russell. They are competitive in the first two sectors, but the straight costs them heavily. Unless they trim drag for qualifying, they look locked out of the front two rows."
+    },
+    {
+      "type": "table",
+      "heading": "Sector Performance Comparison",
+      "description": "Best sector times combined across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["George Russell", "36.509", "42.053", "24.496", "1:43.058"],
+          ["Max Verstappen", "36.536", "42.053", "24.776", "1:43.365"],
+          ["Kimi Antonelli", "36.556", "42.259", "24.619", "1:43.434"],
+          ["Charles Leclerc", "36.483", "42.494", "24.772", "1:43.749"],
+          ["Lewis Hamilton", "36.592", "42.506", "24.935", "1:44.033"],
+          ["Lando Norris", "36.510", "42.474", "25.228", "1:44.212"]
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026trackbakudetailed.webp",
+      "alt": "Azerbaijan Circuit track map with sector divisions",
+      "caption": "Baku City Circuit layout showing the three sectors and key corners"
+    },
+    {
+      "type": "text",
+      "heading": "Understanding Aggregated vs Actual Times",
+      "content": "An aggregated lap is built from each driver's single best Sector 1, best Sector 2 and best Sector 3 across every practice lap of the weekend. Those sectors can come from different laps and even different sessions. Russell's 1:43.058, for example, combines Sector 1 and Sector 2 from FP3 with Sector 3 from FP2. It represents what the car and driver have already shown they can do, just not all at once.\n\nThe actual time is the fastest complete lap a driver set in any one session, which is what the official timesheets show. The difference between the two, the delta, is the key number. A small delta means a driver is already putting complete laps together. A large delta means there is performance still to unlock, which is exactly what qualifying is designed to extract. On a fresh set of Softs with the track at its fastest, drivers tend to land closer to their aggregated lap than to their practice best.\n\nThis is why we use aggregated times as our qualifying predictor. Hamilton, Valtteri Bottas and Lance Stroll all have a delta of zero, so what you see is what they have. Leclerc, at +0.724, has the largest gap of anyone in the top six, and Arvid Lindblad's +0.743 is the biggest in the field. None of this appears on any official source. It comes from our own sector-level analysis of every practice lap."
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual Times",
+      "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "George Russell",
+            "Mercedes",
+            "1:43.058",
+            "1:43.347",
+            "+0.289",
+            "Benchmark, still more to come"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:43.365",
+            "1:43.922",
+            "+0.557",
+            "Sector 3 is the missing piece"
+          ],
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:43.434",
+            "1:43.899",
+            "+0.465",
+            "Quick but unpolished"
+          ],
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:43.749",
+            "1:44.473",
+            "+0.724",
+            "Big untapped potential"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:44.033",
+            "1:44.033",
+            "+0.000",
+            "Ruthlessly consistent"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:44.212",
+            "1:44.831",
+            "+0.619",
+            "Fast in pieces, slow on the straight"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:44.237",
+            "1:44.868",
+            "+0.631",
+            "Hidden top-six pace"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:44.366",
+            "1:44.746",
+            "+0.380",
+            "Steady, short of speed"
+          ],
+          [
+            "Pierre Gasly",
+            "Alpine",
+            "1:44.520",
+            "1:44.637",
+            "+0.117",
+            "Already maximising the car"
+          ],
+          [
+            "Sergio Perez",
+            "Cadillac",
+            "1:45.111",
+            "1:45.760",
+            "+0.649",
+            "Cadillac's best weekend yet?"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy Analysis",
+      "content": "The McLarens were the heaviest Soft users in practice, with Norris and Piastri each going through five sets. Nico Hulkenberg matched that number for Audi. Those three drivers chased single-lap pace hard, but they now have fewer fresh Softs left for qualifying than most of their rivals. For McLaren in particular, that is a risky trade given their Sector 3 deficit.\n\nThe front-runners were more restrained. Verstappen, Leclerc and Hamilton each used only three Soft sets across the three sessions, and Antonelli did the same. Russell used four Softs but also four Mediums, three of them in FP3. That suggests Mercedes spent Saturday morning on race preparation rather than on qualifying runs, which makes their FP3 times more impressive.\n\nFurther down, Haas and Audi took a very different approach. Esteban Ocon ran five sets of Hards in FP1 alone, and Gabriel Bortoleto ran four. Lindblad and Perez each used three Hards across the weekend. These teams appear to be building data for a long first stint on the Hard, which could give them an alternative strategy on Sunday.\n\nBaku is usually a one-stop race, and the Medium to Hard sequence looks like the default for the front-runners. The track's high safety car probability makes a long first stint attractive, since a well-timed neutralisation can turn into a cheap pit stop. Teams that have tested the Hard extensively may be the ones best prepared to use that opportunity."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown",
+      "description": "Total compound usage across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
+        "rows": [
+          ["George Russell", "Mercedes", "4", "4", "1", "9"],
+          ["Kimi Antonelli", "Mercedes", "3", "3", "1", "7"],
+          ["Max Verstappen", "Red Bull Racing", "3", "2", "1", "6"],
+          ["Charles Leclerc", "Ferrari", "3", "2", "1", "6"],
+          ["Lewis Hamilton", "Ferrari", "3", "2", "2", "7"],
+          ["Lando Norris", "McLaren", "5", "2", "1", "8"],
+          ["Oscar Piastri", "McLaren", "5", "2", "1", "8"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Key Findings and Surprises",
+      "content": "1. Mercedes are the team to beat. Russell leads the aggregated order by 0.307s and holds the fastest Sector 3 of the weekend at 24.496. Antonelli is third overall and second-fastest in Sector 3 at 24.619. Both cars are fast in the section of the lap that matters most in Baku.\n\n2. Alpine are the surprise of the weekend. Gasly is ninth on aggregated pace at 1:44.520, but his Sector 3 of 24.654 is the third-best of anyone. His delta of +0.117 means he is already putting complete laps together, and his FP3 lap of 1:44.637 put him sixth on the timesheet ahead of both McLarens.\n\n3. The midfield is extremely tight. Perez, Lawson, Franco Colapinto, Ocon and Oliver Bearman are covered by just 0.229s, from 1:45.111 to 1:45.340. Perez's +0.649 delta makes him the most likely to break clear, while Ocon's +0.017 suggests he has little left in reserve. Carlos Sainz is similar at +0.003, which leaves Williams with limited upside.\n\n4. McLaren's straight-line problem is real. Norris holds the third-best Sector 1 at 36.510 and both McLarens are in the top five for Sector 2. However, they lose around 0.73s to Russell in Sector 3 alone. On a track where the main straight decides overtaking, that will matter on Sunday as well as in qualifying.\n\n5. Aston Martin are struggling. Fernando Alonso's aggregated lap of 1:46.002 is nearly three seconds off the pace, and Stroll's best actual lap came in FP2 at 1:47.403. His FP3 lap was almost two seconds slower than that."
+    },
+    {
+      "type": "text",
+      "heading": "Race Day Predictions",
+      "content": "Qualifying Prediction: Based on aggregated pace, we expect pole to fall in the 1:43.0 to 1:43.2 range, with Russell taking it from Verstappen and Antonelli. The two drivers to watch for an upset are Leclerc and Hadjar. Leclerc's +0.724 delta is the biggest among the front-runners, and if he puts his sectors together he could reach the low 1:43s. Hadjar's 1:44.237 aggregated lap, with a +0.631 delta, makes him a genuine top-six contender.\n\nRace Prediction: Russell to win. Mercedes have the best Sector 3, which means they are fastest onto the main straight and hardest to pass. They also used the most Mediums in practice, which suggests they have done the most race preparation. We expect a one-stop race, starting on Mediums and switching to Hards around lap 18 to 22, unless a safety car moves the window.\n\nPodium Prediction: 1. George Russell (Mercedes), 2. Max Verstappen (Red Bull Racing), 3. Charles Leclerc (Ferrari). Antonelli has the pace for third, but Leclerc's record in Baku and his unused performance make him our pick for the final step.\n\nWildcard Factors: Baku has a high chance of safety cars because the walls are close and recovery is difficult. A single neutralisation could undo any strategy. Wind along the Caspian coast can also affect stability in the slow castle section, where Sector 2 times show Ferrari already losing ground.\n\nDark Horse: Pierre Gasly. Alpine have been consistent all weekend, with a Sector 3 that rivals Mercedes and a delta of only +0.117. If he qualifies inside the top eight, the straight-line speed should let him defend well, and a points finish near the front is a real possibility.\n\nKey Battle to Watch: Russell against Verstappen. They are identical through Sector 2 at 42.053, and the fight will be decided by Verstappen's 0.280s deficit in Sector 3. If Red Bull can close that gap with a lower-drag setup, Sunday becomes a straight fight."
+    }
+  ]
+}
