@@ -1,0 +1,340 @@
+{
+  "slug": "2026-round-12-practice-analysis-netherlands",
+  "title": "Netherlands GP 2026: Practice, Sprint Qualifying Analysis & Weekend Predictions",
+  "articleDate": "2026-08-21",
+  "raceCountry": "Netherlands",
+  "raceName": "Netherlands Grand Prix",
+  "raceYear": 2026,
+  "summary": "George Russell took sprint pole at Zandvoort by just 0.041s, but RaceTrace's exclusive aggregated FP1 data had Lando Norris as the true pace-setter and flagged Charles Leclerc's hidden speed before he turned it into P3. Full sector, team-mate and tyre breakdown, plus sprint, qualifying and race predictions.",
+  "readTime": "9 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-21-12-53-02-7-11-friday-zandvoort-2026.jpg",
+  "tags": [
+    "Practice Analysis",
+    "Sprint Qualifying",
+    "Tyre Strategy",
+    "Race Predictions"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Sprint Qualifying: Russell Snatches Pole by 0.041s",
+      "content": "George Russell put Mercedes on sprint pole at Zandvoort with a 1:11.567, edging Lando Norris by just 0.041s in a breathless SQ3. Charles Leclerc was a further 0.014s back in third, and Oscar Piastri completed a top four covered by less than a tenth, with 0.099s separating pole from P4. On a circuit this short and this narrow, that is one moment at Tarzan or one wobble on the banking.\n\nRussell's final lap was the biggest step of anyone at the sharp end: he found 0.668s between SQ2 and SQ3, more than Norris (0.581s) or Leclerc (0.568s). Only Kimi Antonelli improved by more (0.717s), yet the Italian still finished 0.227s behind his team-mate in fifth. Piastri, fastest of all in SQ2 with a 1:12.026, gained only 0.360s on the soft and slipped to fourth.\n\nBehind the lead group the gaps opened sharply. Max Verstappen salvaged sixth in front of the orange grandstands, 0.527s off pole, while Lewis Hamilton could only manage seventh, a full 0.569s slower than Leclerc in the same car. Pierre Gasly, Gabriel Bortoleto and Arvid Lindblad completed the top ten, the three of them covered by 0.159s.\n\nThe eliminations told their own story. Liam Lawson missed SQ3 by 0.351s, Nico Hulkenberg fell from seventh in FP1 to fourteenth, and Aston Martin and Cadillac locked out the last two rows. Fernando Alonso was last, 0.623s behind Lance Stroll after just five laps. Russell now has the inside line into Tarzan at a track where track position is almost everything."
+    },
+    {
+      "type": "table",
+      "heading": "Sprint Qualifying Results",
+      "description": "Full Sprint Qualifying classification with SQ1, SQ2 and SQ3 times",
+      "data": {
+        "headers": ["Pos", "Driver", "Team", "SQ1", "SQ2", "SQ3"],
+        "rows": [
+          ["1", "RUS", "Mercedes", "1:13.278", "1:12.235", "1:11.567"],
+          ["2", "NOR", "McLaren", "1:13.071", "1:12.189", "1:11.608"],
+          ["3", "LEC", "Ferrari", "1:13.011", "1:12.190", "1:11.622"],
+          ["4", "PIA", "McLaren", "1:13.126", "1:12.026", "1:11.666"],
+          ["5", "ANT", "Mercedes", "1:13.668", "1:12.511", "1:11.794"],
+          ["6", "VER", "Red Bull Racing", "1:13.585", "1:12.771", "1:12.094"],
+          ["7", "HAM", "Ferrari", "1:13.151", "1:12.445", "1:12.191"],
+          ["8", "GAS", "Alpine", "1:13.977", "1:12.720", "1:12.578"],
+          ["9", "BOR", "Audi", "1:13.730", "1:12.786", "1:12.583"],
+          ["10", "LIN", "Racing Bulls", "1:14.057", "1:12.785", "1:12.737"],
+          ["11", "LAW", "Red Bull Racing", "1:13.420", "1:13.136", "—"],
+          ["12", "TSU", "Racing Bulls", "1:14.490", "1:13.145", "—"],
+          ["13", "COL", "Alpine", "1:14.618", "1:13.439", "—"],
+          ["14", "HUL", "Audi", "1:14.284", "1:13.616", "—"],
+          ["15", "OCO", "Haas F1 Team", "1:14.503", "1:13.893", "—"],
+          ["16", "ALB", "Williams", "1:14.596", "1:14.294", "—"],
+          ["17", "BEA", "Haas F1 Team", "1:14.728", "—", "—"],
+          ["18", "SAI", "Williams", "1:14.738", "—", "—"],
+          ["19", "STR", "Aston Martin", "1:15.391", "—", "—"],
+          ["20", "BOT", "Cadillac", "1:15.472", "—", "—"],
+          ["21", "PER", "Cadillac", "1:15.545", "—", "—"],
+          ["22", "ALO", "Aston Martin", "1:16.014", "—", "—"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "What FP1 Was Hiding",
+      "content": "This is where RaceTrace's exclusive data earns its keep. On the official FP1 timesheet, Antonelli topped the only practice hour of the weekend with a 1:12.949, 0.121s clear of Norris. But stitch together each driver's best sectors, wherever they came from, and the order changes: Norris leads the aggregated rankings on 1:12.806, Leclerc is second on 1:12.882, and Antonelli drops to third.\n\nThe reason is consistency of a very particular kind. Antonelli, Russell and Hamilton all set their three best sectors on the same lap, an aggregated-to-actual delta of exactly zero. That is a tidy lap, but it also means there was no unused speed hiding in their data. Norris (+0.264s) and Leclerc (+0.356s) were the opposite: both had already shown sectors good enough for P1 and simply never strung them together. Norris's best first sector came on lap 24 and his best second sector on lap 27, while Leclerc's three best sectors came from three different laps (36, 30 and 34).\n\nSprint Qualifying was the test of which reading was right. The aggregated top three (Norris, Leclerc, Antonelli) went on to qualify P2, P3 and P5. Leclerc is the clearest win for the method: fifth on the official FP1 sheet and behind Hamilton, he converted his hidden potential into P3 and beat his team-mate by more than half a second. Russell is the honest miss. Fourth on aggregated pace, he found 1.507s between his FP1 best and his pole lap, more than any of the FP1 top four (Norris 1.198s, Leclerc 1.260s, Antonelli 1.155s).\n\nFurther back, the data flagged Piastri (+0.149s), Bortoleto (+0.148s), Lawson (+0.161s) and Yuki Tsunoda (+0.143s) as drivers leaving time on the table. Only Piastri and Bortoleto made it into SQ3, a reminder that potential still has to be delivered when the soft tyres go on."
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual (FP1) — and What Happened Next",
+      "description": "Exclusive RaceTrace analysis: best S1 + best S2 + best S3 from any lap vs fastest single complete lap, set against each driver's Sprint Qualifying result",
+      "data": {
+        "headers": [
+          "Driver",
+          "Team",
+          "Aggregated",
+          "Actual",
+          "Delta",
+          "SQ Pos",
+          "Insight"
+        ],
+        "rows": [
+          [
+            "NOR",
+            "McLaren",
+            "1:12.806",
+            "1:13.070",
+            "+0.264",
+            "P2",
+            "Hidden potential, converted"
+          ],
+          [
+            "LEC",
+            "Ferrari",
+            "1:12.882",
+            "1:13.238",
+            "+0.356",
+            "P3",
+            "Biggest hidden gain, converted"
+          ],
+          [
+            "ANT",
+            "Mercedes",
+            "1:12.949",
+            "1:12.949",
+            "+0.000",
+            "P5",
+            "Complete lap, no margin left"
+          ],
+          [
+            "RUS",
+            "Mercedes",
+            "1:13.074",
+            "1:13.074",
+            "+0.000",
+            "P1",
+            "Complete lap, found more in SQ"
+          ],
+          [
+            "HAM",
+            "Ferrari",
+            "1:13.139",
+            "1:13.139",
+            "+0.000",
+            "P7",
+            "Complete lap, faded in SQ"
+          ],
+          [
+            "PIA",
+            "McLaren",
+            "1:13.459",
+            "1:13.608",
+            "+0.149",
+            "P4",
+            "Untapped potential"
+          ],
+          [
+            "HUL",
+            "Audi",
+            "1:13.726",
+            "1:13.784",
+            "+0.058",
+            "P14",
+            "Consistent, didn't carry over"
+          ],
+          [
+            "BOR",
+            "Audi",
+            "1:13.844",
+            "1:13.992",
+            "+0.148",
+            "P9",
+            "Untapped potential"
+          ],
+          [
+            "GAS",
+            "Alpine",
+            "1:13.911",
+            "1:13.911",
+            "+0.000",
+            "P8",
+            "Complete lap"
+          ],
+          [
+            "LIN",
+            "Racing Bulls",
+            "1:14.285",
+            "1:14.285",
+            "+0.000",
+            "P10",
+            "Complete lap"
+          ],
+          [
+            "VER",
+            "Red Bull Racing",
+            "1:14.325",
+            "1:14.325",
+            "+0.000",
+            "P6",
+            "FP1 pace masked (+2.231s gain in SQ)"
+          ],
+          [
+            "LAW",
+            "Red Bull Racing",
+            "1:14.700",
+            "1:14.861",
+            "+0.161",
+            "P11",
+            "Untapped potential"
+          ],
+          [
+            "TSU",
+            "Racing Bulls",
+            "1:14.967",
+            "1:15.110",
+            "+0.143",
+            "P12",
+            "Untapped potential"
+          ],
+          [
+            "ALB",
+            "Williams",
+            "1:15.219",
+            "1:15.357",
+            "+0.138",
+            "P16",
+            "Untapped potential"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Reading the Numbers",
+      "content": "An aggregated lap is built from a driver's single best first sector, best second sector and best third sector across the whole session, even if they came on three different laps. It answers a simple question: what could this driver do if everything came together at once? The actual lap is the one you will find on the official timesheet: the fastest complete lap, all three sectors from the same run.\n\nThe delta between the two is the interesting part. A delta of zero means a driver's best lap was also their best in every sector, so they are already close to the limit of what the car showed. A large delta means speed is sitting in the data unused: a mistake in one sector, traffic, a different fuel load or a mid-session setup change. In qualifying, when drivers get clean air and fresh softs, that unused speed tends to come out, which is why aggregated times are our primary input for grid predictions.\n\nNone of this appears on F1.com or in the official timing screens, which only publish the single fastest lap. It is the core of RaceTrace's practice analysis, and on Friday at Zandvoort it pointed to Leclerc's top-three lap before he did it."
+    },
+    {
+      "type": "text",
+      "heading": "Where the Lap Was Won: Sector by Sector",
+      "content": "Norris's FP1 advantage was built in the first two sectors. His 24.957 was the only sub-25-second opening sector of the session, 0.066s clear of Leclerc, and his 25.529 through the middle sector was a remarkable 0.185s quicker than the next best, Antonelli's 25.714. The middle of the lap is Zandvoort's fast, flowing section, and an edge of that size there is a strong signal about McLaren's high-speed downforce.\n\nThe final sector belonged to Ferrari. Leclerc's 22.056 and Hamilton's 22.134 were first and second, with Norris only sixth on 22.320, a 0.264s deficit to Leclerc in the last part of the lap alone. The run through the banked final corner and onto the main straight rewards traction and straight-line efficiency, and that is where the red cars clawed back most of what they lost earlier.\n\nMercedes was the most balanced package. Antonelli ranked third, second and third across the three sectors, and Russell fourth, third and fourth. They were never the fastest anywhere, but never far away either, which is exactly the profile that rewards a driver who nails a single lap, as Russell did in SQ3. Combine the field's best sectors and you get an ideal FP1 lap of 1:12.542, 0.264s quicker than even Norris's aggregated time.\n\nFurther down, Hulkenberg's 22.271 in sector three was fifth fastest overall, quicker than both McLarens, which points to a strong traction car at Audi. Verstappen's problem was the middle sector: his 26.323 was 0.794s slower than Norris there, almost his entire gap to the front."
+    },
+    {
+      "type": "table",
+      "heading": "Best Sector Times — FP1 (Aggregated)",
+      "description": "Personal best sector times from Free Practice 1, regardless of which lap they came from",
+      "data": {
+        "headers": [
+          "Driver",
+          "Sector 1",
+          "Sector 2",
+          "Sector 3",
+          "Aggregated Lap"
+        ],
+        "rows": [
+          ["NOR", "24.957", "25.529", "22.320", "1:12.806"],
+          ["LEC", "25.023", "25.803", "22.056", "1:12.882"],
+          ["ANT", "25.042", "25.714", "22.193", "1:12.949"],
+          ["RUS", "25.043", "25.794", "22.237", "1:13.074"],
+          ["HAM", "25.090", "25.915", "22.134", "1:13.139"],
+          ["PIA", "25.189", "25.859", "22.411", "1:13.459"],
+          ["HUL", "25.434", "26.021", "22.271", "1:13.726"],
+          ["BOR", "25.451", "26.055", "22.338", "1:13.844"],
+          ["GAS", "25.367", "26.100", "22.444", "1:13.911"],
+          ["VER", "25.514", "26.323", "22.488", "1:14.325"]
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026trackzandvoortdetailed.webp",
+      "alt": "Netherlands Circuit Track Map with sector divisions",
+      "caption": "Circuit Zandvoort layout showing the three sectors and key corners"
+    },
+    {
+      "type": "text",
+      "heading": "Team-Mate Battles: Five Teams Flipped Overnight",
+      "content": "Team-mates share the same car, which makes them the cleanest benchmark in the sport, and on Friday the hierarchy proved surprisingly fragile. In five of the eleven teams, the driver who was faster in FP1 ended up behind in Sprint Qualifying: Mercedes, Ferrari, Audi, Haas and Aston Martin all swapped order within a few hours.\n\nThe most striking reversal was at Ferrari. Hamilton was 0.099s ahead of Leclerc on the official FP1 sheet, but the aggregated data already had Leclerc 0.257s quicker, and in SQ3 the gap was 0.569s in Leclerc's favour. At Mercedes the swing was smaller but decisive: Antonelli led Russell by 0.125s in FP1, then finished 0.227s behind him when sprint pole was on the line.\n\nMcLaren's pairing was the closest of the session, Norris ahead by only 0.058s in SQ3, while Audi produced the biggest gap on the grid. Hulkenberg had been 0.208s faster than Bortoleto in FP1, but in SQ2 he was 0.830s slower and missed the cut. At Aston Martin, Alonso led Stroll by 0.688s in practice and then trailed him by 0.623s in SQ1."
+    },
+    {
+      "type": "table",
+      "heading": "Team-Mate Head-to-Heads",
+      "description": "Sprint Qualifying gap measured in the last session both drivers took part in, alongside who led on the FP1 actual timesheet",
+      "data": {
+        "headers": [
+          "Team",
+          "SQ Winner",
+          "SQ Loser",
+          "Gap",
+          "Compared In",
+          "FP1 Leader"
+        ],
+        "rows": [
+          ["Mercedes", "RUS (P1)", "ANT (P5)", "+0.227", "SQ3", "ANT"],
+          ["McLaren", "NOR (P2)", "PIA (P4)", "+0.058", "SQ3", "NOR"],
+          ["Ferrari", "LEC (P3)", "HAM (P7)", "+0.569", "SQ3", "HAM"],
+          ["Red Bull Racing", "VER (P6)", "LAW (P11)", "+0.365", "SQ2", "VER"],
+          ["Alpine", "GAS (P8)", "COL (P13)", "+0.719", "SQ2", "GAS"],
+          ["Audi", "BOR (P9)", "HUL (P14)", "+0.830", "SQ2", "HUL"],
+          ["Racing Bulls", "LIN (P10)", "TSU (P12)", "+0.360", "SQ2", "LIN"],
+          ["Haas F1 Team", "OCO (P15)", "BEA (P17)", "+0.225", "SQ1", "BEA"],
+          ["Williams", "ALB (P16)", "SAI (P18)", "+0.142", "SQ1", "ALB"],
+          ["Aston Martin", "STR (P19)", "ALO (P22)", "+0.623", "SQ1", "ALO"],
+          ["Cadillac", "BOT (P20)", "PER (P21)", "+0.073", "SQ1", "BOT"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy: The Hard Compound Blind Spot",
+      "content": "With a single hour of practice, and a damp phase that pushed almost everyone onto intermediates, teams reached Sprint Qualifying with very little dry long-run data. Twenty of the 22 drivers used at least one set of intermediates in FP1. Only the Red Bull pair skipped them entirely, and both Cadillacs fitted two sets each.\n\nThe four front-running teams ran identical programmes: one soft, one medium and one intermediate in FP1, then two mediums and a soft in Sprint Qualifying. Not one McLaren, Ferrari or Mercedes driver touched the hard compound on Friday. The hard was evaluated only by Alpine, Audi, Racing Bulls and Red Bull, with Bortoleto, Tsunoda and Lindblad each running two sets. That gives the midfield, and Red Bull, real data on the tyre most likely to feature in Sunday's race, while the front-runners will be partly guessing from simulation.\n\nThe heaviest user was Esteban Ocon, with nine sets through Friday, including six mediums, three of them in Sprint Qualifying. Hulkenberg went through four sets of mediums in SQ1 and SQ2 alone, which reflects how hard Audi pushed to recover a session that slipped away. Alex Albon was the soft-tyre outlier in practice, using three sets in FP1.\n\nFor the sprint, expect the medium to be the default choice: it is the compound everyone has the most running on, and around 100km at Zandvoort is too long to push a soft flat out. For the Grand Prix, the logical race is a one-stop from medium to hard, but with so little hard-tyre running at the front, any surprise in degradation on Sunday will catch the top teams first."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown — Friday (FP1 + Sprint Qualifying)",
+      "description": "Sets used per driver across FP1 and Sprint Qualifying, ordered by sprint grid position",
+      "data": {
+        "headers": [
+          "Driver",
+          "Team",
+          "Soft",
+          "Medium",
+          "Hard",
+          "Inter",
+          "Total Sets"
+        ],
+        "rows": [
+          ["RUS", "Mercedes", "2", "3", "0", "1", "6"],
+          ["NOR", "McLaren", "2", "3", "0", "1", "6"],
+          ["LEC", "Ferrari", "2", "3", "0", "1", "6"],
+          ["PIA", "McLaren", "2", "3", "0", "1", "6"],
+          ["ANT", "Mercedes", "2", "3", "0", "1", "6"],
+          ["VER", "Red Bull Racing", "2", "2", "1", "0", "5"],
+          ["HAM", "Ferrari", "2", "3", "0", "1", "6"],
+          ["GAS", "Alpine", "2", "2", "1", "1", "6"],
+          ["BOR", "Audi", "1", "3", "2", "1", "7"],
+          ["LIN", "Racing Bulls", "1", "3", "2", "1", "7"],
+          ["LAW", "Red Bull Racing", "1", "2", "1", "0", "4"],
+          ["TSU", "Racing Bulls", "0", "3", "2", "1", "6"],
+          ["COL", "Alpine", "1", "2", "1", "1", "5"],
+          ["HUL", "Audi", "0", "5", "1", "1", "7"],
+          ["OCO", "Haas F1 Team", "2", "6", "0", "1", "9"],
+          ["ALB", "Williams", "3", "3", "0", "1", "7"],
+          ["BEA", "Haas F1 Team", "1", "3", "0", "1", "5"],
+          ["SAI", "Williams", "2", "2", "0", "1", "5"],
+          ["STR", "Aston Martin", "1", "2", "0", "1", "4"],
+          ["BOT", "Cadillac", "1", "2", "0", "2", "5"],
+          ["PER", "Cadillac", "1", "2", "0", "2", "5"],
+          ["ALO", "Aston Martin", "1", "2", "0", "1", "4"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Sprint Race Predictions",
+      "content": "**Sprint Podium Prediction:**\n1. George Russell (Mercedes): pole at Zandvoort is worth more than almost anywhere else on the calendar. Mercedes' balanced sector profile means Russell has no obvious weak spot for Norris to attack, and he only needs to hold the inside into Tarzan.\n2. Lando Norris (McLaren): the fastest car through the first two sectors on aggregated pace, but the 0.264s he lost to Leclerc in sector three in FP1 makes a pass on the main straight hard to set up.\n3. Charles Leclerc (Ferrari): Ferrari's final-sector strength gives him the best exit onto the straight of anyone in the top four, which makes him the likeliest driver to make an early move, but also the most exposed to Piastri behind.\n\n**Sprint Strategy:**\nNo stops, and mediums for almost the whole grid. Every front-runner has three sets' worth of medium experience from Friday and no dry long runs on the soft, so the medium is the safe call. Watch for anyone near the back gambling on softs for a fast opening lap.\n\n**Sprint Wildcard:**\nMax Verstappen from P6. His FP1 aggregated time was 1.519s off the pace, yet he found 2.231s by SQ3, the biggest Friday improvement of anyone in the top ten. Red Bull clearly ran a different programme, and if their sprint pace sits closer to SQ than FP1, he can attack Antonelli early.\n\n**Key Sprint Battle:**\nLeclerc vs Piastri for the last podium spot. They are separated by 0.044s on the grid, Piastri was the quickest driver in SQ2, and one of them will start the race with a bad feeling about Turn 1."
+    },
+    {
+      "type": "text",
+      "heading": "Qualifying & Race Day Predictions",
+      "content": "**Qualifying Prediction:**\nOur aggregated FP1 data points to Lando Norris for Grand Prix pole. He had the best aggregated lap (1:12.806), the best first sector and a 0.185s margin in the second, and his +0.264s delta says there is still lap time he has not shown. The field's ideal FP1 lap was 0.264s quicker than Norris's aggregated time; take the same margin off Russell's sprint pole and you get a projected pole of around 1:11.30.\n\nPredicted top three: 1. Norris, 2. Leclerc, 3. Russell. Leclerc's +0.356s delta was the largest of any front-runner, and he has already proven once this weekend that he can unlock it. Piastri (+0.149s) is the other driver with speed in reserve.\n\n**Race Prediction:**\nNorris to win. Zandvoort makes overtaking difficult, so Saturday's grid will shape most of Sunday's result, and his middle-sector advantage should translate into the strongest pace in the high-speed sections where tyres are worked hardest. Expect a one-stop race from medium to hard, with the undercut powerful given how hard it is to pass on track. The deciding factor may be the hard tyre itself: none of the top four teams ran it on Friday.\n\n**Podium Prediction:**\n1. Lando Norris (McLaren)\n2. George Russell (Mercedes)\n3. Charles Leclerc (Ferrari)\n\n**Wildcard Factors:**\nThe damp running in FP1 is a reminder that the North Sea weather can change quickly, and Zandvoort's gravel traps and narrow layout make safety cars a real possibility. A safety car would neutralise any undercut advantage and open the door for a team with better hard-tyre knowledge.\n\n**Dark Horse:**\nNico Hulkenberg. He was seventh on aggregated FP1 pace and fifth fastest in the final sector, ahead of both McLarens. His P14 in Sprint Qualifying hides an Audi package with good traction and genuine hard-tyre data from Friday. From the midfield, that is a recipe for a strong points finish.\n\n**Key Battle to Watch:**\nNorris vs Russell. The data says Norris has the faster car over a full lap; Russell has the momentum of a sprint pole and a Mercedes with no weak sector. Whoever leads into Tarzan after the start is likely to control the race."
+    },
+    {
+      "type": "text",
+      "heading": "Five Things We Learned on Friday",
+      "content": "1. **Norris is the true pace-setter.** Fastest on aggregated FP1 pace, quickest in two of three sectors, and only 0.041s off sprint pole without putting his best lap together.\n\n2. **Aggregated data called Leclerc's lap.** Fifth on the official FP1 sheet, second on our aggregated ranking, third in Sprint Qualifying, and more than half a second ahead of Hamilton.\n\n3. **The front of the grid is tight.** The top four in SQ3 were covered by 0.099s, and the top three on aggregated FP1 pace by 0.143s. Small mistakes will decide pole on Saturday.\n\n4. **Red Bull's Friday pace was hidden.** Verstappen's 2.231s gain from FP1 to SQ3 was the largest of anyone in the top ten, and Red Bull was the only team to skip intermediates entirely.\n\n5. **Nobody at the front has run the hard tyre.** McLaren, Ferrari and Mercedes all skipped it in FP1. Alpine, Audi, Racing Bulls and Red Bull have the data. On Sunday, that could matter."
+    }
+  ]
+}
