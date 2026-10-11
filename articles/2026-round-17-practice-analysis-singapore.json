@@ -1,0 +1,208 @@
+{
+  "slug": "2026-round-17-practice-analysis-singapore",
+  "title": "Singapore GP 2026: Practice Sessions Analysis & Race Predictions",
+  "articleDate": "2026-10-09",
+  "raceCountry": "Singapore",
+  "raceName": "Singapore Grand Prix",
+  "raceYear": 2026,
+  "summary": "George Russell owned the ultimate-pace ranking in Singapore's lone practice session with a 1:32.208 aggregated lap, but a new power unit means he will start Sunday's Grand Prix from the back of the grid. That opens the door for Max Verstappen, who hid almost a quarter of a second in FP1 without bolting on a single soft tyre, and for a Ferrari led by a flawless Charles Leclerc. Our exclusive aggregated data also called the exact top ten of Sprint Qualifying.",
+  "readTime": "9 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-16-37-47-4-2299343769.jpg",
+  "tags": ["Practice Analysis", "Tyre Strategy", "Race Predictions"],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "What the Data Reveals: Singapore's Hidden Order",
+      "content": "Singapore is a sprint weekend, which means teams got exactly one hour of practice before Sprint Qualifying. With so little running, the official timing sheet tells only part of the story. Our aggregated analysis takes each driver's fastest Sector 1, Sector 2 and Sector 3 from every lap they completed and stitches them into a single theoretical lap. Those sectors can come from different laps, so the result shows what a driver could have done had everything come together on one run. That number is not published on F1.com or any official source.\n\nSet beside the actual fastest lap, the aggregated time becomes a diagnostic tool. A small gap means the driver strung their best sectors together on one lap and is already close to their limit. A large gap means pace was left out on the circuit, through traffic, a lock-up, an aborted push or a programme that never chased a headline time. Those are the drivers who tend to jump forward once a qualifying session forces them to deliver one clean lap.\n\nThe evidence for the method this weekend is striking. The top ten of our FP1 aggregated order (Russell, Norris, Leclerc, Hamilton, Verstappen, Piastri, Antonelli, Hadjar, Gasly and Lawson) is exactly the ten drivers who reached SQ3 a few hours later. The order inside that group shuffled, and the drivers with the biggest aggregated-to-actual gaps were the ones who climbed."
+    },
+    {
+      "type": "table",
+      "heading": "Ultimate Pace Potential — Aggregated Order",
+      "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "George Russell", "Mercedes", "1:32.208", "—"],
+          ["2", "Lando Norris", "McLaren", "1:32.410", "+0.202"],
+          ["3", "Charles Leclerc", "Ferrari", "1:32.472", "+0.264"],
+          ["4", "Lewis Hamilton", "Ferrari", "1:32.508", "+0.300"],
+          ["5", "Max Verstappen", "Red Bull Racing", "1:32.764", "+0.556"],
+          ["6", "Oscar Piastri", "McLaren", "1:32.789", "+0.581"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual Times",
+      "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "George Russell",
+            "Mercedes",
+            "1:32.208",
+            "1:32.274",
+            "+0.066",
+            "Near-perfect execution"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:32.410",
+            "1:32.547",
+            "+0.137",
+            "Sector 2 left on the table"
+          ],
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:32.472",
+            "1:32.472",
+            "+0.000",
+            "Ruthlessly consistent"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:32.508",
+            "1:32.773",
+            "+0.265",
+            "Big untapped potential"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:32.764",
+            "1:33.006",
+            "+0.242",
+            "Big untapped potential"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:32.789",
+            "1:32.838",
+            "+0.049",
+            "Tidy, short on peak"
+          ],
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:33.275",
+            "1:33.525",
+            "+0.250",
+            "Scrappy lap, more to come"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:33.586",
+            "1:33.723",
+            "+0.137",
+            "Some time in hand"
+          ],
+          [
+            "Pierre Gasly",
+            "Alpine",
+            "1:33.866",
+            "1:34.038",
+            "+0.172",
+            "Some time in hand"
+          ],
+          [
+            "Liam Lawson",
+            "Racing Bulls",
+            "1:34.117",
+            "1:34.155",
+            "+0.038",
+            "Maximising the package"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "The Competitive Picture: Mercedes Sharp, Ferrari Close, Red Bull Lurking",
+      "content": "George Russell topped both rankings in FP1, with a 1:32.274 actual lap and a 1:32.208 aggregated lap. His delta of just 0.066s came entirely from Sector 1: his best was a 27.171 on lap 25, while his flying lap 23 opened with a 27.237. Sectors 2 and 3 on that lap were already his personal bests. Russell was not hiding anything on Friday, and he was still quickest. That pace counts in Sprint Qualifying and the Sprint, where Russell starts from where he qualified, but not on Sunday: Mercedes has confirmed a new power unit for him, and the grid penalty sends him to the back of the Grand Prix grid.\n\nCharles Leclerc produced the most unusual line in the dataset. His aggregated and actual laps are identical at 1:32.472, because all three of his best sectors came on the same lap 23. That is rare after a full hour of running and suggests a Ferrari that is easy to place on the limit around a circuit that punishes the smallest error. Lando Norris split the Ferraris on aggregated pace at 1:32.410, but his actual lap was 0.137s slower, and most of that loss sat in the middle sector.\n\nThe headline sits further down the order. Max Verstappen finished FP1 sixth on actual time, 0.732s off Russell, yet his aggregated lap of 1:32.764 places him fifth. The tyre data explains more: Verstappen ran one set of mediums and two sets of hards in FP1 and no softs at all. Russell, Norris, Leclerc and Piastri each used a soft, and Hamilton used two. On equal rubber Verstappen was far closer than the timesheet showed, and he took Sprint Qualifying pole with a 1:31.156, 0.120s clear of Russell."
+    },
+    {
+      "type": "text",
+      "heading": "Sector-by-Sector Breakdown",
+      "content": "Sector 1 at Marina Bay is a sequence of hard braking zones and traction exits, and Russell ruled it with a 27.171. Hamilton was next at 27.249, ahead of Leclerc (27.280) and Norris (27.297). Verstappen's 27.493 was the slowest of the top six by more than 0.09s, which fits a driver on harder compounds: Sector 1 depends heavily on tyre grip for braking and traction.\n\nSector 2 is the long middle section of the lap, where mechanical grip and rotation through slow corners matter most. Norris was the only driver in the field to break 39 seconds, with a 38.940, which explains why McLaren sits second on aggregated pace. Leclerc (39.020), Hamilton (39.031) and Russell (39.035) were covered by 0.015s. Verstappen (39.164) and Piastri (39.179) trailed, and Antonelli's 39.402 is where most of his gap to his teammate comes from.\n\nSector 3 belonged to Mercedes and Red Bull. Russell's 26.002 was the best in the field by more than a tenth, and Verstappen's 26.107 on mediums was second fastest overall. Combine the field's best three sectors and you get a theoretical lap of 1:32.113, only 0.095s quicker than Russell's own aggregated time. That is the clearest sign that the Mercedes was the most complete car on Friday."
+    },
+    {
+      "type": "table",
+      "heading": "Sector Performance Comparison",
+      "description": "Best sector times combined across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["George Russell", "27.171", "39.035", "26.002", "1:32.208"],
+          ["Lando Norris", "27.297", "38.940", "26.173", "1:32.410"],
+          ["Charles Leclerc", "27.280", "39.020", "26.172", "1:32.472"],
+          ["Lewis Hamilton", "27.249", "39.031", "26.228", "1:32.508"],
+          ["Max Verstappen", "27.493", "39.164", "26.107", "1:32.764"],
+          ["Oscar Piastri", "27.401", "39.179", "26.209", "1:32.789"]
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026tracksingaporedetailed.webp",
+      "alt": "Singapore Circuit track map with sector divisions",
+      "caption": "Circuit Singapore layout showing the three sectors and key corners"
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy Analysis",
+      "content": "The tyre data covers the whole weekend so far: FP1, Sprint Qualifying, the Sprint and Qualifying. The standout fact is that the Sprint was run entirely on intermediates. Every driver in the field used at least one set, and Norris, Lindblad and Bortoleto each went through four. That rain cost teams useful dry long-run data and makes Sunday's tyre behaviour harder to read than usual.\n\nFP1 programmes split into two groups. The front-runners at McLaren, Ferrari and Mercedes (Russell) used a soft in practice to check single-lap balance. Red Bull, Antonelli and most of the midfield stayed on mediums and hards. Hadjar was the extreme case with four sets of hards and no softs, a clear race-preparation programme. Hamilton was at the other end with two softs and three hards, the most varied FP1 plan among the leading teams.\n\nIn Qualifying, soft usage separates drivers who needed several attempts from those who got through cleanly. Antonelli and Lindblad used six sets of softs, while Russell got by on only three, the fewest of any front-runner. Hadjar used just two, which fits a session cut short. Norris and Hamilton finished the weekend with the highest total among the leaders at 16 sets each, so their remaining options for Sunday are worth watching.\n\nFor the race, Singapore usually rewards a one-stop strategy built around mediums and hards, with track position decisive and Safety Car timing able to undo any plan. Russell's grid penalty makes him the exception. Starting last, Mercedes has every reason to put him on the hard compound and run long, waiting for the Safety Car that Marina Bay so often produces. His three sets of hards in FP1, joint-most among the front-runners with Hamilton and Antonelli, give the team a solid base of long-stint data for that plan."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown — Front-Runners",
+      "description": "Total compound usage across the weekend so far (FP1, Sprint Qualifying, Sprint and Qualifying).",
+      "data": {
+        "headers": [
+          "Driver",
+          "Team",
+          "Soft",
+          "Medium",
+          "Hard",
+          "Inter",
+          "Total Sets"
+        ],
+        "rows": [
+          ["George Russell", "Mercedes", "5", "3", "3", "1", "12"],
+          ["Kimi Antonelli", "Mercedes", "7", "4", "3", "1", "15"],
+          ["Max Verstappen", "Red Bull Racing", "6", "4", "2", "2", "14"],
+          ["Charles Leclerc", "Ferrari", "6", "3", "2", "2", "13"],
+          ["Lewis Hamilton", "Ferrari", "7", "3", "3", "3", "16"],
+          ["Lando Norris", "McLaren", "7", "3", "2", "4", "16"],
+          ["Oscar Piastri", "McLaren", "6", "3", "2", "1", "12"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "From FP1 to Sprint Qualifying: How the Pace Evolved",
+      "content": "With only one practice session, the best measure of evolution is the jump from FP1 to SQ3. As Marina Bay gained rubber and the cars switched to softs, everyone found between one and two seconds. The size of each driver's gain shows who had been hiding the most. Verstappen improved by 1.850s from his FP1 actual lap to his SQ3 pole, Lawson by 1.814s, Antonelli by 1.676s and Piastri by 1.384s.\n\nRussell, Leclerc, Hamilton and Norris all improved by roughly one second: 0.998s, 1.073s, 1.071s and 0.960s respectively. These were the drivers who had already shown their hand with softs on Friday, and their small aggregated deltas said they had been near their limit. The drivers with no soft running in FP1 gained the most once they finally used one.\n\nLawson is the midfield story. He was tenth on aggregated time, but his delta of only 0.038s marked him as a driver getting everything out of the car, and he converted that into eighth in Sprint Qualifying with a 1:32.341. Hadjar and Gasly also reached SQ3, matching their aggregated ranking, but neither set a time in the final part of the session."
+    },
+    {
+      "type": "text",
+      "heading": "Key Findings and Surprises",
+      "content": "1. Mercedes has the most complete package. Russell led both FP1 rankings, holds the fastest Sector 1 and Sector 3 of the weekend, and his 0.066s delta shows the time was already on the board. His 0.120s defeat in SQ3 came against a Red Bull that had stayed hidden on Friday, not from a Mercedes problem. The cruel twist is that the advantage does not carry into Sunday: a new power unit sends Russell to the back of the Grand Prix grid, although he starts the Sprint from where he qualified.\n\n2. Verstappen's Friday was a smokescreen. Sixth on the official timesheet without a single soft lap, he still posted the second-best Sector 3 of the session on mediums. His 0.242s aggregated delta, combined with the compound handicap, made his SQ pole far more predictable than the FP1 order suggested.\n\n3. Ferrari brings two very different profiles. Leclerc produced a lap with zero aggregated delta, a perfect lap in practice, while Hamilton carried the largest gap of the top six at 0.265s, almost all of it in Sector 1 (27.471 actual against a 27.249 best). If Hamilton connects his sectors, he has the raw speed to fight for the front row.\n\n4. McLaren is quick in the middle and less sharp at either end. Norris owns the only sub-39 Sector 2, but he and Piastri both lose to Mercedes in Sectors 1 and 3. Piastri's 0.049s delta says there is little hidden pace left in his car.\n\n5. The midfield is extremely tight. Lawson and Bearman were separated by 0.002s on aggregated pace (1:34.117 against 1:34.119), and positions 11 to 14 were covered by 0.330s. In Singapore, where overtaking is difficult, those tiny qualifying margins carry extra weight."
+    },
+    {
+      "type": "text",
+      "heading": "Race Day Predictions",
+      "content": "Qualifying Prediction: The aggregated data and Sprint Qualifying point the same way: Russell and Verstappen are the two fastest drivers over one lap. We expect pole in the 1:30.8–1:31.0 range, with Russell, Verstappen and Leclerc as the top three on pace. Russell's power unit penalty means his qualifying result will not decide his Sunday grid slot, so the effective pole for the Grand Prix goes to the fastest of the rest. That makes Verstappen the favourite to start first, with Leclerc alongside him. Watch Hamilton: his 0.265s delta is the biggest among the front-runners and makes him the most likely to beat his aggregated ranking.\n\nRace Prediction: Max Verstappen to win. With Russell removed from the front, Verstappen is the quickest driver left, and Singapore's lack of overtaking turns a front-row start into a major advantage. Expect a one-stop strategy from medium to hard for the leaders, with teams ready to react to an early Safety Car.\n\nPodium Prediction: 1. Max Verstappen (Red Bull Racing), 2. Charles Leclerc (Ferrari), 3. Lando Norris (McLaren).\n\nRussell's Recovery Drive: Starting last on a street circuit is a heavy price, even with the fastest car of Friday. We predict a points finish between sixth and eighth on an alternative strategy that starts on hards. A Safety Car in the right window could lift him higher, because a cheap pit stop is worth more than raw pace at Marina Bay.\n\nWildcard Factors: The wet Sprint showed how quickly conditions can change in Singapore, and teams have little dry long-run data from this weekend. Marina Bay has one of the highest Safety Car rates on the calendar, so a well-timed neutralisation could reshuffle the top five and reward anyone who starts on the hard compound.\n\nDark Horse: Liam Lawson. He was tenth on aggregated pace, eighth in Sprint Qualifying, and his 0.038s delta shows a driver extracting the maximum. Russell's penalty removes one more fast car from ahead of him, and a clean race with a Safety Car in the right window could put the Racing Bulls into the top six.\n\nKey Battle to Watch: Verstappen against Leclerc into Turn 1. Verstappen has the momentum after the SQ pole, Leclerc has the most consistent lap of the weekend, and on a street circuit the first braking zone may decide the race. Behind them, Russell's climb from the back is the storyline most likely to shake up the points."
+    }
+  ]
+}
