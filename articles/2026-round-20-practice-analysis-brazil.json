@@ -1,0 +1,200 @@
+{
+  "slug": "2026-round-20-practice-analysis-brazil",
+  "title": "Brazil GP 2026: Practice Sessions Analysis & Race Predictions",
+  "articleDate": "2026-11-07",
+  "raceCountry": "Brazil",
+  "raceName": "Brazil Grand Prix",
+  "raceYear": 2026,
+  "summary": "Kimi Antonelli's 1:10.741 aggregated lap tops a razor-thin Interlagos order, with Piastri and Verstappen within 0.144s. Our exclusive sector data shows Piastri sitting on 0.217s of untapped pace, while Norris and Hamilton have already extracted everything their cars offer. Home hero Gabriel Bortoleto leads the midfield, and rain could still rewrite the script.",
+  "readTime": "9 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-13-07-02-1-17-friday-saopaulo-2026.jpg",
+  "tags": ["Practice Analysis", "Tyre Strategy", "Race Predictions"],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "What the Data Reveals",
+      "content": "Official timing sheets tell you who set the fastest lap. They don't tell you how fast a driver could have gone if every sector had come together on the same lap. That is exactly what our aggregated data measures: for every driver, we take their best Sector 1, best Sector 2 and best Sector 3 from across all three practice sessions at Interlagos and add them together. The result is a theoretical optimal lap for the weekend, which we then compare to the fastest complete lap each driver actually delivered.\n\nAt São Paulo, that analysis puts Kimi Antonelli on top with an aggregated 1:10.741, just 0.022s quicker than the 1:10.763 he actually set in FP2. That is a remarkably small gap. It means the Mercedes driver already strung together nearly his perfect lap, and it makes him the reference point heading into qualifying. Behind him, the picture gets far more interesting than the official classification suggests.\n\nOscar Piastri never topped a session and his best actual lap was only fifth-fastest of the weekend at 1:11.084. Yet his aggregated lap of 1:10.867 slots him into second, just 0.126s off Antonelli. That 0.217s delta between potential and delivery is the largest among the front-runners, and it is precisely the kind of hidden pace standard timing screens miss. Max Verstappen completes the theoretical top three at 1:10.885, carrying a 0.137s delta of his own.\n\nThe flip side is just as telling. Lando Norris and Lewis Hamilton both show a delta of exactly 0.000. Their best sectors all came on the same lap. That speaks to clinical execution, but it also means there is no extra time left to find. Below, we break down why this distinction matters for Saturday and Sunday."
+    },
+    {
+      "type": "table",
+      "heading": "Ultimate Pace Potential — Aggregated Order",
+      "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "Kimi Antonelli", "Mercedes", "1:10.741", "—"],
+          ["2", "Oscar Piastri", "McLaren", "1:10.867", "+0.126"],
+          ["3", "Max Verstappen", "Red Bull Racing", "1:10.885", "+0.144"],
+          ["4", "Lando Norris", "McLaren", "1:11.016", "+0.275"],
+          ["5", "George Russell", "Mercedes", "1:11.024", "+0.283"],
+          ["6", "Lewis Hamilton", "Ferrari", "1:11.213", "+0.472"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual Times",
+      "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:10.741",
+            "1:10.763",
+            "+0.022",
+            "Near-perfect execution"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:10.867",
+            "1:11.084",
+            "+0.217",
+            "Big untapped potential"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:10.885",
+            "1:11.022",
+            "+0.137",
+            "Speed still in reserve"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:11.016",
+            "1:11.016",
+            "+0.000",
+            "Ruthlessly consistent"
+          ],
+          [
+            "George Russell",
+            "Mercedes",
+            "1:11.024",
+            "1:11.036",
+            "+0.012",
+            "Ruthlessly consistent"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:11.213",
+            "1:11.213",
+            "+0.000",
+            "Maxed out"
+          ],
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:11.258",
+            "1:11.483",
+            "+0.225",
+            "Biggest hidden gain up front"
+          ],
+          [
+            "Gabriel Bortoleto",
+            "Audi",
+            "1:11.647",
+            "1:11.780",
+            "+0.133",
+            "Room to grow"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:11.669",
+            "1:11.839",
+            "+0.170",
+            "Scrappy but quick"
+          ],
+          [
+            "Arvid Lindblad",
+            "Racing Bulls",
+            "1:11.787",
+            "1:12.008",
+            "+0.221",
+            "Raw pace not yet joined up"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "The Competitive Picture: Four Teams in Three Tenths",
+      "content": "Interlagos has compressed the front of the field. Mercedes, McLaren and Red Bull all have a car inside 0.144s of the theoretical benchmark, and Ferrari is only 0.472s back with Hamilton. On a lap barely over 70 seconds long, that is close enough that track position on Saturday could be decided by a single committed corner. Mercedes look the most complete package: Antonelli and George Russell sit first and fifth in the aggregated order with deltas of just 0.022s and 0.012s respectively. Both drivers are hitting their marks consistently.\n\nMcLaren's two cars tell opposite stories. Norris topped FP1 with a 1:11.717 and his FP2 lap of 1:11.016 contained every one of his best sectors. Piastri, who sat out FP1, was the faster driver in theory but never connected his laps. His best Sector 1 and Sector 2 came on lap 13 of FP2, while his best Sector 3 of 15.976 arrived in FP3. Combining those cleanly on Saturday would put him in the fight for pole.\n\nRed Bull is effectively a one-car contender. Verstappen's aggregated 1:10.885 is right in the mix, but Isack Hadjar is 0.928s off the top in ninth. Ferrari also have a split: Hamilton has taken everything from his package, while Charles Leclerc's 0.225s delta suggests the Monegasque could move ahead of his teammate when it counts. Leclerc's aggregated 1:11.258 is only 0.045s behind Hamilton.\n\nThe standout outside the top four teams is Gabriel Bortoleto. In front of his home crowd, the Audi driver's aggregated 1:11.647 places him eighth overall and best of the midfield, ahead of Hadjar's Red Bull and both Racing Bulls."
+    },
+    {
+      "type": "text",
+      "heading": "Sector-by-Sector Breakdown",
+      "content": "Sector 1 at Interlagos covers the plunging Senna S and the run down to Curva do Sol. It rewards braking stability and traction out of slow corners. Here, Lewis Hamilton was the fastest man of the weekend with an 18.205 in FP2, ahead of Piastri on 18.258, Russell on 18.267 and Norris on 18.270. The Ferrari clearly works on the brakes and in the direction changes of the opening complex. Hamilton then loses that advantage once the lap opens up.\n\nSector 2 is where Antonelli built his advantage. The long, twisty infield from Descida do Lago through Pinheirinho and Bico de Pato is the longest part of the lap, and it rewards mechanical grip and balance. Antonelli's 36.460 in FP2 was 0.173s quicker than anyone else. Piastri (36.633) and Verstappen (36.639) were next. Russell was fourth on 36.748, confirming that the Mercedes is especially strong in medium-speed corners. Hamilton's 36.781 shows where Ferrari's deficit lies.\n\nSector 3 is the climb from Junção up the hill to the line. It is mostly full throttle and rewards power unit deployment and low drag. Verstappen's 15.950 from FP3 was the best of the weekend, with Antonelli (15.966), Piastri (15.976) and Norris (15.997) covered by under five hundredths. The surprise lower down was Liam Lawson's 15.998 for Racing Bulls, quicker than Russell's 16.009. Hamilton's 16.227 was the weakest in the top six, which confirms Ferrari's straight-line deficit.\n\nPut together, the sector data explains the order neatly. Mercedes win the infield, Red Bull win the drag race, and McLaren is consistently top-four everywhere without leading anywhere. Ferrari leads only through the Senna S."
+    },
+    {
+      "type": "table",
+      "heading": "Sector Performance Comparison",
+      "description": "Best sector times combined across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["Kimi Antonelli", "18.315", "36.460", "15.966", "1:10.741"],
+          ["Oscar Piastri", "18.258", "36.633", "15.976", "1:10.867"],
+          ["Max Verstappen", "18.296", "36.639", "15.950", "1:10.885"],
+          ["Lando Norris", "18.270", "36.749", "15.997", "1:11.016"],
+          ["George Russell", "18.267", "36.748", "16.009", "1:11.024"],
+          ["Lewis Hamilton", "18.205", "36.781", "16.227", "1:11.213"]
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026trackinterlagosdetailed.webp",
+      "alt": "Brazil Circuit track map with sector divisions",
+      "caption": "Circuit Brazil layout showing the three sectors and key corners"
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy Analysis",
+      "content": "Across all three practice sessions, the front-runners took different approaches to the dry compounds. Norris was the busiest of the leading drivers with seven slick sets (three soft, two medium, two hard), with an extra hard set in FP2 that points to long-run work. Mercedes ran identical programmes on both cars, with three softs, two mediums and one hard each. Verstappen matched that six-set plan exactly. These teams treated practice as a balanced test of both qualifying and race simulations.\n\nFerrari went their own way. Leclerc didn't use a single hard set and instead ran three mediums across FP2 and FP3. That suggests Ferrari sees the medium as the primary race tyre at Interlagos. Hamilton used only two softs in total and none in FP3, where his best lap came on lap 2 on mediums. That explains why he dropped to twelfth in the final session, and it means he has fresh soft rubber in reserve.\n\nFurther back, Hadjar and Rafael Camara each used four soft sets, the most aggressive soft usage on the grid. For Hadjar, that hasn't translated into pace: he still sits 0.928s off Antonelli. For Camara, a Brazilian rookie at his home race, it looks like a push to extract qualifying pace in a Haas that is ranked fifteenth in the aggregated order.\n\nThe most important line in the data, though, is not about slicks. The tyre records show that every regular driver has intermediate or full wet sets logged against qualifying. Antonelli, Russell, Hadjar, Leclerc and Alonso all registered three intermediate sets. That is a strong signal that Interlagos's famously changeable weather has already come into play. It also means the dry-pace hierarchy above could be scrambled before the lights go out."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown",
+      "description": "Total compound usage across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
+        "rows": [
+          ["Lando Norris", "McLaren", "3", "2", "2", "7"],
+          ["Kimi Antonelli", "Mercedes", "3", "2", "1", "6"],
+          ["George Russell", "Mercedes", "3", "2", "1", "6"],
+          ["Max Verstappen", "Red Bull Racing", "3", "2", "1", "6"],
+          ["Charles Leclerc", "Ferrari", "2", "3", "0", "5"],
+          ["Lewis Hamilton", "Ferrari", "2", "2", "1", "5"],
+          ["Oscar Piastri", "McLaren", "2", "1", "1", "4"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "How the Weekend Unfolded: FP1 to FP3",
+      "content": "FP1 belonged to Norris, whose 1:11.717 led Antonelli by 0.082s and Verstappen by 0.236s. Several teams used the session for young drivers. Leonardo Fornaroli (McLaren), Dino Beganovic (Ferrari), Gabriele Mini (Alpine), Luke Browning (Williams), Colton Herta (Cadillac) and Freddie Slater (Audi) all took part, which is why Piastri and Leclerc only joined from FP2. Mini was the pick of that group, seventh overall on 1:12.569.\n\nFP2 brought the fastest running of the weekend by a distance. Antonelli's 1:10.763 was nearly a second quicker than the FP1 benchmark, and every one of the top-five aggregated laps was built mostly from FP2 sectors. Norris, Verstappen, Russell and Piastri were covered by just 0.068s behind him. Nico Hulkenberg didn't set a time at all, and his first laps of the weekend came in FP3.\n\nFP3 was slower across the board: Verstappen topped it with a 1:11.622, which is 0.859s off Antonelli's FP2 best. That points to changed track conditions rather than a loss of performance. It was still useful for reading form, though. Leclerc climbed to fifth on 1:11.896 while Hamilton fell to twelfth after a short run on mediums. Racing Bulls also moved up, with Arvid Lindblad seventh on 1:12.060 and Lawson eighth, both ahead of Hadjar's senior Red Bull."
+    },
+    {
+      "type": "text",
+      "heading": "Key Findings and Surprises",
+      "content": "1. Mercedes have the most complete car. Antonelli tops the aggregated order by 0.126s and owns the fastest Sector 2 by 0.173s. Russell's 0.012s delta shows the car is also easy to extract performance from. With both drivers in the top five, Mercedes is the team to beat in the dry.\n\n2. Piastri is the biggest hidden threat. He has never topped a session and sits fifth on actual laps, yet the aggregated data has him second. His 0.217s delta is the largest of the front-runners, and he did it after missing FP1 entirely. Leclerc is in a similar position: his 0.225s delta is the biggest gap in the top seven.\n\n3. Bortoleto leads the midfield at home. The Brazilian's aggregated 1:11.647 is eighth overall and 0.022s ahead of Hadjar's Red Bull. Racing Bulls are not far behind, with Lindblad (1:11.787) and Lawson (1:11.826) separated by just 0.039s. The battle for the last points positions looks set to include Audi, Racing Bulls, Alpine and Haas. Bearman, Colapinto and Gasly are covered by just 0.038s in aggregated terms.\n\n4. The cars' strengths are clear from the sectors. Ferrari is strongest through the Senna S, Mercedes in the infield and Red Bull up the hill. That makes this a track where different setups can produce similar lap times through very different routes.\n\n5. The anomalies are worth noting. Dino Beganovic's FP1 delta of 0.917s is the largest of the weekend, which is typical of a rookie's first outing. At the back, Aston Martin are struggling: Alonso's 1:12.538 is 1.797s off the pace, and Stroll's FP3 best of 1:14.766 came on just his fourth lap."
+    },
+    {
+      "type": "text",
+      "heading": "Race Day Predictions",
+      "content": "Qualifying Prediction: In dry conditions, we expect pole to be around 1:10.7, very close to Antonelli's aggregated 1:10.741. Our predicted top three, based on aggregated pace, is Antonelli, Piastri and Verstappen. Piastri's 0.217s delta makes him the most likely driver to beat his practice form, while Norris and Hamilton have already shown everything they have and are unlikely to find much more. Leclerc's 0.225s of hidden pace could see him qualify ahead of his teammate.\n\nRace Prediction: Antonelli wins. His Sector 2 advantage is the kind of pace that holds up over a full race distance, and Mercedes's balanced six-set programme suggests both race compounds have been properly tested. Expect a one-stop medium-to-hard strategy for most front-runners, with Ferrari likely to start on the medium given Leclerc's three-set focus on that compound. Verstappen's Sector 3 speed will make him the hardest driver to hold off on the run to Turn 1.\n\nPodium Prediction: 1. Kimi Antonelli (Mercedes), 2. Max Verstappen (Red Bull Racing), 3. Oscar Piastri (McLaren).\n\nWildcard Factors: Weather is the overriding unknown. Intermediate and wet sets already appear in the qualifying tyre data, and Interlagos has a long history of sudden downpours. A wet race would favour drivers who can manage the car in changing conditions over pure dry pace. Combined with the track's tight runoff areas, the chances of a safety car are high, which could reward teams that can react quickly with strategy calls.\n\nDark Horse: Gabriel Bortoleto. He is the fastest midfielder in our aggregated order, still has 0.133s of untapped pace, and will have the full support of the home crowd. If the leaders run into trouble in changing conditions, a strong points finish for Audi is realistic.\n\nKey Battle to Watch: Piastri vs Norris. McLaren's drivers come at the race from opposite directions: Norris has extracted all of his potential, while Piastri has more to find. Whoever comes out ahead in that intra-team fight will most likely take the final podium spot."
+    }
+  ]
+}
