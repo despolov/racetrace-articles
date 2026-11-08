@@ -1,0 +1,205 @@
+{
+  "slug": "2026-practice-analysis-mexico",
+  "title": "Mexico GP 2026: Practice Sessions Analysis & Race Predictions",
+  "articleDate": "2026-10-31",
+  "raceCountry": "Mexico",
+  "raceName": "Mexico Grand Prix",
+  "raceYear": 2026,
+  "summary": "Lando Norris topped the official timesheets by just 0.001 seconds, but our exclusive aggregated data puts Kimi Antonelli on top with a theoretical 1:17.422 and almost two tenths still to find. With Leclerc owning two of the three sectors and Hamilton sitting on the biggest untapped potential of the front-runners, Mexico City is set for a three-team fight.",
+  "readTime": "10 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-13-27-44-2.jpg",
+  "tags": ["Practice Analysis", "Tyre Strategy", "Race Predictions"],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "The Headline: Antonelli Holds the Hidden Ace in Mexico City",
+      "content": "On the official timesheets, Lando Norris walked away from Friday and Saturday morning with the fastest lap of the weekend: a 1:17.600 in Practice 3, just 0.001 seconds clear of Kimi Antonelli's 1:17.601. That is the story every other outlet will tell. Our aggregated data tells a different one. When you stitch together each driver's best Sector 1, Sector 2 and Sector 3 from all three practice sessions, Antonelli comes out on top with a theoretical lap of 1:17.422, almost a tenth clear of Norris on 1:17.520.\n\nThe difference matters. Norris left just 0.080 seconds on the table between his ideal lap and his best real lap, which means the McLaren is close to fully delivered. Antonelli left 0.179 seconds unused, almost all of it in the stadium section, where his best real lap ran a 20.030 against a personal-best Sector 3 of 19.943. If the Mercedes driver puts his three best sectors together in qualifying, nobody else on this evidence can match it.\n\nBehind the top two, Ferrari is very much in the fight. Charles Leclerc topped both P1 (1:18.128) and P2 (1:17.827), holds the fastest Sector 1 (27.032) and Sector 3 (19.858) of the entire weekend, and has an aggregated lap of 1:17.591, only 0.169 seconds off the top. Lewis Hamilton is the outlier of the front group: his 1:17.749 aggregated lap is fourth fastest, but his best real lap of 1:18.069 is 0.320 seconds slower, the biggest gap of any front-runner.\n\nThe Autódromo Hermanos Rodríguez sits more than 2,200 metres above sea level, and the thin air shapes everything. It cuts downforce, makes cooling harder and makes the cars slide around, while the long run from the grid to Turn 1 rewards a strong power unit and a good tow. The top seven in our aggregated order are covered by just 0.441 seconds, so qualifying will come down to who gets a clean lap together. That is exactly what this data measures."
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026trackmexicocitydetailed.webp",
+      "alt": "Mexico Circuit track map with sector divisions",
+      "caption": "Circuit Mexico layout showing the three sectors and key corners"
+    },
+    {
+      "type": "text",
+      "heading": "Ultimate Pace: The Weekend's Optimal Order",
+      "content": "Ranking every driver by the sum of their best three sectors across P1, P2 and P3 gives the order below. This is the clearest guide to who can win the pole shoot-out, and it already differs from the official standings at the very top."
+    },
+    {
+      "type": "table",
+      "heading": "Ultimate Pace Potential — Aggregated Order",
+      "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "Kimi Antonelli", "Mercedes", "1:17.422", "—"],
+          ["2", "Lando Norris", "McLaren", "1:17.520", "+0.098"],
+          ["3", "Charles Leclerc", "Ferrari", "1:17.591", "+0.169"],
+          ["4", "Lewis Hamilton", "Ferrari", "1:17.749", "+0.327"],
+          ["5", "Oscar Piastri", "McLaren", "1:17.795", "+0.373"],
+          ["6", "Max Verstappen", "Red Bull Racing", "1:17.862", "+0.440"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Sector-by-Sector Breakdown",
+      "content": "Sector 1 covers the long main straight and the braking zone into Turns 1 to 3, so it is mostly about power and drag. Leclerc owns it with a 27.032, set on lap 19 of P3. Antonelli (27.043) and Piastri (27.056) are within 0.024 seconds of him. Russell's 27.078 shows the Mercedes power unit is strong down the straight too, even though the rest of his lap faded in P3. Verstappen's 27.137 is a tenth off the best, which points to Red Bull running more wing than its rivals and paying for it on the straights.\n\nSector 2 is where Antonelli builds his advantage. His 30.436 through the fast esses is 0.130 seconds quicker than Norris's 30.566 and more than two tenths clear of everyone else; Hamilton is next on 30.632, set in P2. That gap points to a Mercedes that keeps its downforce in the thin air through the quick changes of direction better than the rest. The Ferraris are the next-best pair here, while Piastri's 30.800 is the weakest of the front group and explains why he sits fifth.\n\nSector 3 takes the cars through the Foro Sol stadium, a slow, twisty section where traction is everything. Leclerc (19.858) and Norris (19.868) are the only two drivers under 19.9 seconds, with Piastri (19.939) and Antonelli (19.943) next. Verstappen's 19.958 suggests the Red Bull's extra downforce pays off here. Hamilton's personal best of 19.966 came on lap 7 of P3, early in the session and on a different lap to his other best sectors, which is a big reason his aggregated and real laps are so far apart.\n\nAdd up the fastest individual sectors of the whole field (Leclerc's Sector 1, Antonelli's Sector 2, Leclerc's Sector 3) and you get a theoretical ultimate lap of 1:17.326. That is the benchmark for pole. Every front-runner has a clear weakness: Antonelli loses time in the stadium, Leclerc gives up 0.265 seconds to the Mercedes in the esses, and Norris is a fraction off in Sector 1. The driver who limits their weak sector on Saturday afternoon takes pole."
+    },
+    {
+      "type": "table",
+      "heading": "Sector Performance Comparison",
+      "description": "Best sector times combined across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["Kimi Antonelli", "27.043", "30.436", "19.943", "1:17.422"],
+          ["Lando Norris", "27.086", "30.566", "19.868", "1:17.520"],
+          ["Charles Leclerc", "27.032", "30.701", "19.858", "1:17.591"],
+          ["Lewis Hamilton", "27.151", "30.632", "19.966", "1:17.749"],
+          ["Oscar Piastri", "27.056", "30.800", "19.939", "1:17.795"],
+          ["Max Verstappen", "27.137", "30.767", "19.958", "1:17.862"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Understanding Aggregated vs Actual Times",
+      "content": "Every lap is split into three timed sectors. Official timing only shows a driver's single fastest complete lap: the actual time. Our aggregated time takes the driver's best Sector 1, best Sector 2 and best Sector 3 from any lap in any of the three practice sessions and adds them up. The result is the lap the driver has already proven they can do, piece by piece, if they put everything together at once.\n\nThat is why the aggregated order is a better guide to qualifying. In practice, laps get spoiled by traffic, run plans, fuel loads and tyres past their best. In qualifying, everyone runs low fuel and new softs and goes all out on a single lap. The gap between the two numbers is the key part. A small delta means the driver is already putting it all together; a large one means there is untapped pace that a clean lap could unlock.\n\nPiastri is the most consistent driver in the field this weekend: his aggregated and actual times are both 1:17.795, a delta of zero. Russell (+0.070), Norris (+0.080) and Verstappen (+0.089) are close to the same. At the other end, Hamilton (+0.320), Hadjar (+0.211) and Antonelli (+0.179) all have time to find. This comparison is not published by F1.com or any official source. It is the core of how RaceTrace reads a weekend."
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual Times",
+      "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:17.422",
+            "1:17.601",
+            "+0.179",
+            "Pole lap not yet assembled"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:17.520",
+            "1:17.600",
+            "+0.080",
+            "Near-complete lap"
+          ],
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:17.591",
+            "1:17.717",
+            "+0.126",
+            "Esses holding him back"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:17.749",
+            "1:18.069",
+            "+0.320",
+            "Big untapped potential"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:17.795",
+            "1:17.795",
+            "+0.000",
+            "Ruthlessly consistent"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:17.862",
+            "1:17.951",
+            "+0.089",
+            "Tidy, but short on speed"
+          ],
+          [
+            "George Russell",
+            "Mercedes",
+            "1:17.863",
+            "1:17.933",
+            "+0.070",
+            "Peaked in P2"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:17.898",
+            "1:18.109",
+            "+0.211",
+            "Quicker than he looks"
+          ],
+          [
+            "Liam Lawson",
+            "Racing Bulls",
+            "1:17.999",
+            "1:18.113",
+            "+0.114",
+            "Midfield leader"
+          ],
+          [
+            "Arvid Lindblad",
+            "Racing Bulls",
+            "1:18.034",
+            "1:18.137",
+            "+0.103",
+            "Solid all weekend"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Practice Session Evolution: From Leclerc's Friday to a Three-Way Saturday",
+      "content": "P1 belonged to Ferrari. Leclerc's 1:18.128 was only 0.041 seconds off his aggregated 1:18.087 for the session, and he finished 0.659 seconds clear of Antonelli. Hamilton showed the first sign of the pattern that followed him all weekend: second in the aggregated order on 1:18.513, but fourth on real laps with a 1:18.866. The session also had ten young drivers in for the regulars, and Frederik Vesti stood out: his 27.081 in Sector 1 was second only to Leclerc's 27.065, and his 1:18.861 put him third.\n\nP2 brought the full field together and closed the gaps. Leclerc stayed on top with a 1:17.827, but Norris (1:17.930) and Russell (1:17.933) both set laps that matched their aggregated times exactly. Hamilton was the big talking point: second in the aggregated order on 1:17.914, he set his best Sector 2 (30.632) on a lap that ended with a 20.616 in the stadium. That left him eleventh on the official timesheet with a 1:18.512, a delta of 0.598 seconds. Verstappen's 1:18.138 was also identical to his aggregated time, but 0.311 seconds off the lead.\n\nP3 changed the order. Antonelli improved by 1.186 seconds from P1 to P3 to top the aggregated order on 1:17.422, while Norris took the fastest real lap with a 1:17.600. Leclerc found 0.110 seconds on his P2 best but slipped to third. Russell went the other way, his 1:18.107 slower than his P2 effort. Since our data covers single-lap pace rather than long runs, the race-pace picture is less clear. Even so, the fact that Antonelli kept finding time through all three sessions suggests Mercedes have made good setup progress."
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy Analysis",
+      "content": "The biggest takeaway from the tyre data is how teams used their young drivers in P1. The stand-ins did most of the hard-compound running: Iwasa, Vesti, Fornaroli, Crawford, Browning, Slater and Herta all ran a set of hards in P1. As a result, Norris, Verstappen and Russell, who all sat out the opening session, didn't use a single hard tyre in practice. Their teams have the hard-compound data from someone else, but the drivers themselves go into Sunday with no laps on the race tyre.\n\nFerrari and McLaren's Piastri took the most complete approach: Leclerc, Hamilton and Piastri each used six sets in practice (three softs, two mediums, one hard), which covers every compound across all three sessions. Antonelli ran three softs, a medium and a hard. Verstappen went for single-lap pace in P2 with two sets of softs and no other compound, then added a medium in P3. Russell spread his running over two softs and two mediums.\n\nThe softs matter most for qualifying. Norris used only two sets of softs in practice because he missed P1, the joint-lowest count among the front-runners alongside Russell. That should leave McLaren with more new soft sets for qualifying than Ferrari, Mercedes's Antonelli or Red Bull. An odd one stands out lower down: Lindblad's single P2 set was a hard, yet his 1:18.389 put him seventh in that session. That points to strong underlying pace from the Racing Bulls.\n\nMexico has a low-grip track and thin air, and that has usually led to one-stop races built around the medium and hard. Expect most of the top ten to start on mediums and switch to hards. The question is whether drivers with no practice laps on the hard, like Norris, Verstappen and Russell, can manage the tyre as well over a long stint as the Ferraris and Piastri, who have their own data."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown — Front-Runners",
+      "description": "Total compound usage across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
+        "rows": [
+          ["Charles Leclerc", "Ferrari", 3, 2, 1, 6],
+          ["Lewis Hamilton", "Ferrari", 3, 2, 1, 6],
+          ["Oscar Piastri", "McLaren", 3, 2, 1, 6],
+          ["Kimi Antonelli", "Mercedes", 3, 1, 1, 5],
+          ["Max Verstappen", "Red Bull Racing", 3, 1, 0, 4],
+          ["George Russell", "Mercedes", 2, 2, 0, 4],
+          ["Lando Norris", "McLaren", 2, 1, 0, 3]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Key Findings and Surprises",
+      "content": "1. Three teams at the front. Mercedes (Antonelli), McLaren (Norris) and Ferrari (Leclerc) are covered by 0.169 seconds in the aggregated order, and each one topped a different measure: Antonelli the aggregated lap, Norris the fastest real lap, and Leclerc two of the three sessions plus two of the three fastest sectors. There is no clear favourite.\n\n2. The Red Bulls are closer than they look. Hadjar's aggregated 1:17.898 is only 0.036 seconds behind Verstappen's 1:17.862, and the Racing Bulls of Lawson (1:17.999) and Lindblad (1:18.034) are within 0.6 seconds of the top. That puts the four Red Bull-family cars as the clear leaders of the chasing group, ahead of a 0.298-second gap to Gasly's Alpine on 1:18.332.\n\n3. A close midfield. From Gasly (1:18.332) to Bearman (1:18.586), five drivers from four teams are covered by 0.254 seconds: Gasly, Hulkenberg (1:18.481), Alonso (1:18.495), Colapinto (1:18.556) and Bearman. Bearman's +0.263 delta is the biggest in that group, so the Haas could jump several places with a clean qualifying lap.\n\n4. Problems for the home team and Audi. Sergio Pérez didn't set a lap in P3 at his home race, and Gabriel Bortoleto only managed an out lap of 1:33.242. Cadillac sit at the back with Pérez on 1:19.265 and Bottas on 1:19.973, and Bortoleto's 1:20.018 leaves him far behind team-mate Hulkenberg, a gap that tells you more about lost track time than about the Audi."
+    },
+    {
+      "type": "text",
+      "heading": "Race Day Predictions",
+      "content": "Qualifying Prediction: Antonelli to take pole with a 1:17.3. Our aggregated data says he already has a 1:17.422 in hand, and with track evolution, fresh softs and the 0.179 seconds he left in the stadium section, a lap close to the field's theoretical best of 1:17.326 is realistic. Norris should line up second, with Leclerc third. Watch Hamilton: his +0.320 delta is the biggest of any front-runner, and if he puts his best sectors together he can push into the top three. Hadjar (+0.211) is our pick to beat Verstappen.\n\nRace Prediction: Leclerc to win. The run from the grid to Turn 1 is one of the longest on the calendar, and the slipstream often lets a car starting second or third take the lead into the first braking zone. Leclerc has the best Sector 1 of the weekend (27.032), the best Sector 3 (19.858) and the most complete tyre programme of the front-runners. We expect a one-stop race, starting on mediums and switching to hards between laps 25 and 35. Ferrari's own laps on the hard should help them manage that final stint better than Norris, who has none.\n\nPodium Prediction: 1. Charles Leclerc (Ferrari), 2. Kimi Antonelli (Mercedes), 3. Lando Norris (McLaren). Antonelli's Sector 2 speed should make him very hard to pass once the race settles, and Norris's extra fresh softs for qualifying matter less on Sunday than his missing hard-compound laps.\n\nWildcard Factors: The thin air makes brake and power unit cooling difficult, so reliability could be a factor late in the race, especially for cars stuck in dirty air. The low-grip surface and the run-off around Turns 1 to 3 make lap-one incidents a regular feature here, so a safety car is a real possibility. A well-timed one could turn a one-stop race into a strategy gamble.\n\nDark Horse: Liam Lawson. The Racing Bulls were the clear leaders of the chasing group in P3, and Lawson's aggregated 1:17.999 puts him within 0.137 seconds of Verstappen. If a front-runner has a problem, a top-six finish is on. Key Battle to Watch: Antonelli vs Norris. They were separated by 0.001 seconds on real laps in P3. Norris has the more complete lap; Antonelli has the higher ceiling. Their duel will decide pole and set the tone for Sunday."
+    }
+  ]
+}
