@@ -1,0 +1,200 @@
+{
+  "slug": "2026-practice-analysis-united-states",
+  "title": "United States GP 2026: Practice Sessions Analysis & Race Predictions",
+  "articleDate": "2026-10-24",
+  "raceCountry": "United States",
+  "raceName": "United States Grand Prix",
+  "raceYear": 2026,
+  "summary": "Charles Leclerc leads both the FP3 timesheet and our exclusive Aggregated Order with a theoretical 1:34.758, but Kimi Antonelli's best sectors put him just 0.048s behind. Ferrari's Sector 3 against Mercedes' Sector 2 sets up a razor-thin pole fight in Austin.",
+  "readTime": "10 min read",
+  "mainImage": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-19-45-44-2-261023_R18_USA_DP_261023_R18_USA_DP_XR1_7636.jpg",
+  "tags": ["Practice Analysis", "Tyre Strategy", "Race Predictions"],
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Can Anyone Stop Leclerc in Austin?",
+      "content": "Three practice sessions at the Circuit of The Americas have left one question hanging over Saturday: can anyone stop Charles Leclerc? The Ferrari driver topped both FP2 and FP3, closing practice with a 1:34.810. More importantly, he also leads our exclusive Aggregated Order: his best sectors from across the weekend add up to a 1:34.758, the fastest theoretical lap of any driver in Austin. On paper he is the man to beat. The margins say it is far from settled.\n\nThe challenge comes from a direction the official timesheets hide. Kimi Antonelli was third-fastest on the FP3 timesheet, 0.205s back, but combine his best sectors and the Mercedes driver comes out at 1:34.806, just 0.048s shy of Leclerc. That 0.209s gap between his potential and his best actual lap is the largest of any front-runner except Isack Hadjar. Antonelli has not yet stitched together the lap his car is capable of. If he does it in qualifying, pole becomes a coin toss.\n\nBehind them, Lewis Hamilton completes a Ferrari-heavy top three on 1:34.866, only 0.027s off his best actual time. Max Verstappen sits fourth on 1:35.061, a lap that matches his actual best to the thousandth. Lando Norris (1:35.174) and George Russell (1:35.316) round out the top six. Fewer than six tenths cover the first six cars, and the sector data shows each team gaining in a different part of the lap.\n\nAcross the article we answer the central question step by step. We trace how the order shifted from FP1 to FP3, show where each car gains time sector by sector, explain why Aggregated times are the sharpest qualifying predictor available, and read what the tyre programmes tell us about Sunday. It's the analysis the official timesheets can't give you."
+    },
+    {
+      "type": "table",
+      "heading": "Ultimate Pace Potential — Aggregated Order",
+      "description": "Each driver's combined best sectors across all practice sessions — exclusive data showing true potential beyond official standings.",
+      "data": {
+        "headers": [
+          "Position",
+          "Driver",
+          "Team",
+          "Aggregated Lap",
+          "Gap to First"
+        ],
+        "rows": [
+          ["1", "Charles Leclerc", "Ferrari", "1:34.758", "—"],
+          ["2", "Kimi Antonelli", "Mercedes", "1:34.806", "+0.048"],
+          ["3", "Lewis Hamilton", "Ferrari", "1:34.866", "+0.108"],
+          ["4", "Max Verstappen", "Red Bull Racing", "1:35.061", "+0.303"],
+          ["5", "Lando Norris", "McLaren", "1:35.174", "+0.416"],
+          ["6", "George Russell", "Mercedes", "1:35.316", "+0.558"]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "How the Order Shifted: FP1 to FP3",
+      "content": "FP1 belonged to Verstappen. His 1:35.860 led Leclerc by 0.192s and Norris by 0.437s, and his FP1 Aggregated lap of 1:35.839 was almost identical to it, a typical Red Bull Friday of getting the lap done early. Mercedes looked slow on the timesheet: Antonelli was sixth on 1:36.513. His FP1 Aggregated time of 1:36.181 would have put him third, though, a 0.332s delta that was the first sign of untapped speed.\n\nFP2 changed the picture. Leclerc went fastest with 1:35.291, a lap on which every one of his best sectors came together on lap 10, so his Aggregated and Actual times were identical. Antonelli was right with him on 1:35.333 after a 37.460 second sector, the fastest S2 of the whole weekend. Verstappen slipped to third on 1:35.480. Norris was the outlier: his best actual lap came on lap 4 and was only ninth at 1:36.373, but his FP2 Aggregated time of 1:35.828 was sixth. That 0.545s session delta was the biggest among the front-runners all weekend.\n\nFP3 confirmed the trend. Leclerc lowered the benchmark to 1:34.810, Hamilton jumped to second on 1:34.893, and Antonelli, Verstappen and Norris were covered by 0.434s. From FP1 to FP3 the pace at the front improved by 1.050s. The biggest movers were further back: Nico Hulkenberg cut almost two seconds from his FP1 Aggregated time (1:37.582 to 1:35.591) to finish eighth, and Pierre Gasly improved by more than two seconds to 1:35.715. One caveat applies: this dataset records the fastest laps only, not stint averages, so race-pace judgements rest on tyre programmes rather than long-run lap times."
+    },
+    {
+      "type": "text",
+      "heading": "Sector-by-Sector Breakdown",
+      "content": "Sector 1 at COTA runs from the steep climb to Turn 1 through the high-speed esses, and it rewards a car that changes direction quickly with a stable front end. Verstappen owns it: his 25.423 in FP3 is the only sub-25.5 first sector of the weekend, 0.094s quicker than Norris (25.517) and 0.099s ahead of Leclerc (25.522). The Red Bull's front end is clearly at home through the esses. The trouble for Verstappen is what happens after them.\n\nSector 2, the longest part of the lap, takes in the Turn 11 hairpin and the long back straight, so traction and straight-line efficiency decide it. Mercedes rule here. Antonelli's 37.460 is 0.090s clear of Hamilton (37.550) and 0.263s faster than team-mate Russell (37.723). Verstappen's best S2 of 37.871 is 0.411s slower than Antonelli's, which nearly cancels out the advantage he builds in Sector 1. Hulkenberg's 37.786 is the fourth-best second sector of the weekend, a strong sign of Audi's progress.\n\nSector 3 is the stadium section and the multi-apex right-handers, where mechanical grip and tyre temperature management matter most. This is where Leclerc wins his Aggregated lead. His 31.402 is a remarkable 0.280s faster than the next-best, Hamilton's 31.682, with Verstappen (31.767) and Antonelli (31.790) further back. Ferrari hold the top two Sector 3 times, so the car is clearly at its best in the slow, technical final part of the lap.\n\nThe result is a three-way split. Red Bull lead the first sector, Mercedes the second and Ferrari the third. Leclerc tops the Aggregated Order because his weakest sector, S2 at 37.834, costs him only 0.374s to Antonelli, while his S3 advantage over the Mercedes driver is 0.388s. Antonelli's S2 gives him a weapon nobody else has; finding a cleaner final sector would make him the favourite."
+    },
+    {
+      "type": "table",
+      "heading": "Sector Performance Comparison",
+      "description": "Best sector times combined across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Sector 1", "Sector 2", "Sector 3", "Total Time"],
+        "rows": [
+          ["Charles Leclerc", "25.522", "37.834", "31.402", "1:34.758"],
+          ["Kimi Antonelli", "25.556", "37.460", "31.790", "1:34.806"],
+          ["Lewis Hamilton", "25.634", "37.550", "31.682", "1:34.866"],
+          ["Max Verstappen", "25.423", "37.871", "31.767", "1:35.061"],
+          ["Lando Norris", "25.517", "37.792", "31.865", "1:35.174"],
+          ["George Russell", "25.536", "37.723", "32.057", "1:35.316"]
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "src": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000001/common/f1/2026/track/2026trackaustindetailed.webp",
+      "alt": "United States Circuit track map with sector divisions",
+      "caption": "Circuit of The Americas layout showing the three sectors and key corners"
+    },
+    {
+      "type": "text",
+      "heading": "Understanding Aggregated vs Actual Times",
+      "content": "Official timing shows a single number per driver: the fastest complete lap. Our Aggregated time goes deeper. For every driver we take their best Sector 1, best Sector 2 and best Sector 3 from all three practice sessions combined and add them together. The sectors can come from different laps and even different sessions. The result is each driver's theoretical optimum for the weekend, the lap they have already shown they can drive in pieces.\n\nThis is why Aggregated times predict qualifying better than the official timesheet. In practice, drivers run varied fuel loads, set-up tests and traffic-affected laps, so a perfect lap rarely comes together. In qualifying everything is aligned for one lap: low fuel, fresh softs, maximum engine mode. The pieces a driver has already proven tend to come together then. The Actual time shows what they have delivered so far. The Aggregated time shows what they are capable of.\n\nThe delta between the two is the key number. A tiny delta, like Hamilton's 0.027s, means a driver is extracting nearly everything, so there is little extra to come but also little risk. A zero delta, as with Verstappen and Hulkenberg, means all three best sectors came on the same lap. A large delta, such as Antonelli's 0.209s or Hadjar's 0.365s, signals pace still waiting to be unlocked. Nobody else publishes this breakdown, and it's the reason Austin's qualifying looks much closer than the FP3 timesheet suggests."
+    },
+    {
+      "type": "table",
+      "heading": "Hidden Potential: Aggregated vs Actual Times",
+      "description": "Exclusive analysis comparing ultimate potential vs single-lap performance.",
+      "data": {
+        "headers": ["Driver", "Team", "Aggregated", "Actual", "Delta", "Read"],
+        "rows": [
+          [
+            "Charles Leclerc",
+            "Ferrari",
+            "1:34.758",
+            "1:34.810",
+            "+0.052",
+            "Near-perfect, small margin left"
+          ],
+          [
+            "Kimi Antonelli",
+            "Mercedes",
+            "1:34.806",
+            "1:35.015",
+            "+0.209",
+            "Big untapped potential"
+          ],
+          [
+            "Lewis Hamilton",
+            "Ferrari",
+            "1:34.866",
+            "1:34.893",
+            "+0.027",
+            "Ruthlessly consistent"
+          ],
+          [
+            "Max Verstappen",
+            "Red Bull Racing",
+            "1:35.061",
+            "1:35.061",
+            "+0.000",
+            "What you see is what you get"
+          ],
+          [
+            "Lando Norris",
+            "McLaren",
+            "1:35.174",
+            "1:35.244",
+            "+0.070",
+            "Tidy, little hidden"
+          ],
+          [
+            "George Russell",
+            "Mercedes",
+            "1:35.316",
+            "1:35.381",
+            "+0.065",
+            "Tidy, little hidden"
+          ],
+          [
+            "Oscar Piastri",
+            "McLaren",
+            "1:35.432",
+            "1:35.531",
+            "+0.099",
+            "A tenth in reserve"
+          ],
+          [
+            "Isack Hadjar",
+            "Red Bull Racing",
+            "1:35.565",
+            "1:35.930",
+            "+0.365",
+            "Biggest gap in the top ten"
+          ],
+          [
+            "Nico Hulkenberg",
+            "Audi",
+            "1:35.591",
+            "1:35.591",
+            "+0.000",
+            "Perfect lap delivered"
+          ],
+          [
+            "Pierre Gasly",
+            "Alpine",
+            "1:35.715",
+            "1:35.904",
+            "+0.189",
+            "Q3 pace if it clicks"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Tyre Strategy Analysis",
+      "content": "The tyre programmes split the front-runners into two groups. Mercedes, McLaren and Hamilton each used four sets of softs across the three sessions, with Hamilton, Norris, Antonelli and Russell all running two soft sets in FP3 alone. Oscar Piastri was the most soft-hungry driver in the field with five sets: two in FP2 and two more in FP3. These teams spent rubber chasing one-lap performance on Saturday morning.\n\nLeclerc and both Red Bulls were more conservative, using three softs, two mediums and one hard each. Leclerc set the fastest lap of practice using one fewer soft set than his team-mate and both Mercedes drivers. That matters twice over. Ferrari reached the top of the timesheet without spending extra fresh rubber, and Leclerc should have an extra set of new softs available for qualifying compared with the soft-heavy drivers around him.\n\nAlmost everyone at the front ran exactly one set of hards, nearly all in FP1 or FP2, which suggests each team checked the hard as a race tyre. Mediums were used sparingly: Hamilton, Norris, Piastri, Antonelli and Russell ran just one set each in practice. Bortoleto and Sainz were the only drivers to run two hard sets, both in FP1, an early focus on race preparation.\n\nFor Sunday, the pattern points toward a medium-to-hard one-stop as the default. The drivers who kept mediums back in practice, led by Leclerc and Verstappen with two medium runs each, may have the most data on that opening stint. The soft-heavy approach from Mercedes and McLaren could pay off in qualifying but leaves them with less information on race compounds."
+    },
+    {
+      "type": "table",
+      "heading": "Tyre Usage Breakdown",
+      "description": "Total compound usage across all practice sessions.",
+      "data": {
+        "headers": ["Driver", "Team", "Soft", "Medium", "Hard", "Total Sets"],
+        "rows": [
+          ["Charles Leclerc", "Ferrari", 3, 2, 1, 6],
+          ["Lewis Hamilton", "Ferrari", 4, 1, 1, 6],
+          ["Kimi Antonelli", "Mercedes", 4, 1, 1, 6],
+          ["George Russell", "Mercedes", 4, 1, 1, 6],
+          ["Max Verstappen", "Red Bull Racing", 3, 2, 1, 6],
+          ["Lando Norris", "McLaren", 4, 1, 1, 6],
+          ["Oscar Piastri", "McLaren", 5, 1, 1, 7]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Key Findings and Surprises",
+      "content": "1. Ferrari are the team to beat. Leclerc topped FP2 and FP3 and leads the Aggregated Order, while Hamilton is third on 1:34.866. Ferrari hold the two fastest Sector 3 times, and Leclerc's 31.402 is in a class of its own. Two cars inside 0.108s of the theoretical best is the strongest team position in Austin.\n\n2. Antonelli is the hidden threat. Sixth on the FP1 timesheet, second in FP2 and third in FP3, yet only 0.048s off Leclerc on Aggregated pace. His 37.460 second sector is the best of the weekend by 0.090s. Verstappen, meanwhile, is fastest through Sector 1 but loses 0.411s to Antonelli in Sector 2, and that weakness kept him off the top of the Aggregated table.\n\n3. Audi has joined the midfield fight. Hulkenberg's FP3 lap of 1:35.591 was a perfect lap with a zero delta and put him eighth, ahead of Hadjar, Gasly and Lawson. Bortoleto (1:36.018 Aggregated) is closer to the Racing Bulls than to Aston Martin. Gasly's Alpine (1:35.715) and Lawson (1:35.931) complete a tight battle for the last Q3 places.\n\n4. Anomalies worth noting. Norris's FP2 delta of 0.545s was the largest session delta among the front-runners, so his FP2 timesheet position of ninth undersold him. Hadjar's 0.365s weekend delta suggests the second Red Bull can climb in qualifying. Colton Herta ran only FP1 for Cadillac, posting 1:39.979, before Sergio Perez took over for FP2 and FP3; Perez finished practice on 1:37.884, ahead of team-mate Bottas."
+    },
+    {
+      "type": "text",
+      "heading": "Race Day Predictions",
+      "content": "Qualifying Prediction: Based on Aggregated pace, we expect pole to fall around 1:34.5, a few tenths below Leclerc's 1:34.758 optimum as track evolution and fresh softs come into play. Our predicted top three: Leclerc on pole, Antonelli second and Hamilton third. The driver most likely to upset that order is Antonelli. His 0.209s delta means he has the most to find of anyone at the front, and if his lap comes together he can take pole. Watch Hadjar too, whose 0.365s gap could lift him into the top six.\n\nRace Prediction: Leclerc to win. Ferrari's strength through the stadium section suggests a car that looks after its rear tyres in slow corners, which matters at COTA, where rear degradation usually decides the race. Leclerc also completed practice with one fewer soft set than his closest rivals and two medium runs. We expect a medium-to-hard one-stop for most of the front, with a two-stop as the fallback if degradation is higher than expected.\n\nPodium Prediction: 1. Charles Leclerc (Ferrari), 2. Kimi Antonelli (Mercedes), 3. Lewis Hamilton (Ferrari). Verstappen is the main threat to that podium. He has zero delta and so no hidden pace, but his race craft and Sector 1 speed make him dangerous on Turn 1 and in the opening laps.\n\nWildcard Factors: COTA's bumpy surface and long run to Turn 1 regularly produce first-lap incidents, and a Safety Car would favour anyone who saved a fresh set of hards. Track temperature on Sunday will decide how much the Ferrari's Sector 3 advantage survives into the race, so a cooler day would bring Mercedes closer.\n\nDark Horse: Nico Hulkenberg. A perfect FP3 lap, the fourth-best Sector 2 of the weekend and eighth on the timesheet make him the outsider most likely to score big points from a Q3 grid slot. Key Battle to Watch: Leclerc vs Antonelli for pole. Ferrari's Sector 3 against Mercedes' Sector 2, separated by just 0.048s on Aggregated pace."
+    }
+  ]
+}
